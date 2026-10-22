@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T07:47:03.952719+00:00",
+  "updated_at": "2026-10-22T07:48:07.194593+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 533,
   "total_hw4_under_33k": 17,
@@ -4469,6 +4469,24 @@
       "source": "Autohub Texas"
     },
     {
+      "vin": "7SAYGDEDXRA313525",
+      "year": 2024,
+      "model": "Model Y",
+      "trim": "Long Range RWD",
+      "price": 39125,
+      "mileage": 23425,
+      "dealer": "Park Place Lexus Plano - Plano, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 CONFIRMED (2024+)",
+      "under_33k": false,
+      "deal_score": 64,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEDXRA313525/2024-tesla-model-y/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "7SAYGDEE7TA661475",
       "year": 2026,
       "model": "Model Y",
@@ -6195,24 +6213,6 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4807757",
       "source": "Carvana"
-    },
-    {
-      "vin": "7SAYGDEDXRA313525",
-      "year": 2024,
-      "model": "Model Y",
-      "trim": "Long Range RWD",
-      "price": 39125,
-      "mileage": 23425,
-      "dealer": "Park Place Lexus Plano - Plano, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 CONFIRMED (2024+)",
-      "under_33k": false,
-      "deal_score": 56,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEDXRA313525/2024-tesla-model-y/",
-      "source": "TrueCar"
     },
     {
       "vin": "7SAYGDEF4RA286386",
@@ -8267,6 +8267,24 @@
       "source": "TrueCar"
     },
     {
+      "vin": "5YJ3E1EC0LF624846",
+      "year": 2020,
+      "model": "Model 3",
+      "trim": "Performance Dual Motor AWD",
+      "price": 25903,
+      "mileage": 81746,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 31,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EC0LF624846/2020-tesla-model-3/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJYGDEE2MF076935",
       "year": 2021,
       "model": "Model Y",
@@ -8823,24 +8841,6 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4787930",
       "source": "Carvana"
-    },
-    {
-      "vin": "5YJ3E1EC0LF624846",
-      "year": 2020,
-      "model": "Model 3",
-      "trim": "Performance Dual Motor AWD",
-      "price": 25903,
-      "mileage": 81746,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 23,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EC0LF624846/2020-tesla-model-3/",
-      "source": "TrueCar"
     },
     {
       "vin": "5YJSA1E41FF115031",
