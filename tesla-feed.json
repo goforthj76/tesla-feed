@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T07:53:02.894516+00:00",
+  "updated_at": "2026-10-22T07:53:26.983818+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 515,
   "total_hw4_under_33k": 17,
@@ -2363,6 +2363,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJ3E1EA9SF900678",
+      "year": 2025,
+      "model": "Model 3",
+      "trim": "long Range RWD",
+      "price": 38500.0,
+      "mileage": 20000.0,
+      "dealer": "Autohub Texas",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 CONFIRMED (2024+)",
+      "under_33k": false,
+      "deal_score": 74,
+      "title_status": "Clean",
+      "url": "https://www.autohubtexas.com/product-page/2024-tesla-model-3-long-range-rwd",
+      "source": "Autohub Texas"
+    },
+    {
       "vin": "5YJSA1E56PF502300",
       "year": 2023,
       "model": "Model S",
@@ -2847,24 +2865,6 @@
       "title_status": "Clean",
       "url": "https://www.gulliverauto.com/inventory/used-2022-tesla-model-3-long-range-5yj3e1eb7nf185610-in-plano-tx",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "7SAYGDEE3NF391991",
-      "year": 2022,
-      "model": "Model Y",
-      "trim": "Long Range AWD",
-      "price": 24500.0,
-      "mileage": 93000.0,
-      "dealer": "Autohub Texas",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 71,
-      "title_status": "Clean",
-      "url": "https://www.autohubtexas.com/product-page/2022-tesla-model-y-long-range-1",
-      "source": "Autohub Texas"
     },
     {
       "vin": "5YJ3E1EA9NF185762",
@@ -4469,24 +4469,6 @@
       "source": "Autos of Dallas"
     },
     {
-      "vin": "5YJ3E1EA9SF900678",
-      "year": 2025,
-      "model": "Model 3",
-      "trim": "long Range RWD",
-      "price": 38500.0,
-      "mileage": 20000.0,
-      "dealer": "Autohub Texas",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 CONFIRMED (2024+)",
-      "under_33k": false,
-      "deal_score": 64,
-      "title_status": "Clean",
-      "url": "https://www.autohubtexas.com/product-page/2024-tesla-model-3-long-range-rwd",
-      "source": "Autohub Texas"
-    },
-    {
       "vin": "7SAYGDEDXRA313525",
       "year": 2024,
       "model": "Model Y",
@@ -5009,6 +4991,24 @@
       "source": "Carvana"
     },
     {
+      "vin": "5YJSA1E58PF508695",
+      "year": 2023,
+      "model": "Model S",
+      "trim": "W/ HW4 and FSD",
+      "price": 59900.0,
+      "mileage": 74000.0,
+      "dealer": "Autohub Texas",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 CONFIRMED (Dealer/Spec)",
+      "under_33k": false,
+      "deal_score": 62,
+      "title_status": "Clean",
+      "url": "https://www.autohubtexas.com/product-page/2023-tesla-model-s-w-hw4-and-fsd",
+      "source": "Autohub Texas"
+    },
+    {
       "vin": "5YJSA1E68PF515994",
       "year": 2023,
       "model": "Model S",
@@ -5459,24 +5459,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJSA1E29KF333162",
-      "year": 2019,
-      "model": "Model S",
-      "trim": "Long Range Raven w/ FSD",
-      "price": 32500.0,
-      "mileage": 78000.0,
-      "dealer": "Autohub Texas",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 60,
-      "title_status": "Clean",
-      "url": "https://www.autohubtexas.com/product-page/2019-tesla-model-s-long-range-raven-w-fsd-8",
-      "source": "Autohub Texas"
-    },
-    {
       "vin": "5YJ3E1EA1SF984575",
       "year": 2025,
       "model": "Model 3",
@@ -5853,24 +5835,6 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4655758",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "5YJXCBE26KF180276",
-      "year": 2019,
-      "model": "Model X",
-      "trim": "Long Range Raven w/ FSD",
-      "price": 34900.0,
-      "mileage": 85500.0,
-      "dealer": "Autohub Texas",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 58,
-      "title_status": "Clean",
-      "url": "https://www.autohubtexas.com/product-page/2019-tesla-model-x-long-range-raven-w-fsd-5",
-      "source": "Autohub Texas"
     },
     {
       "vin": "5YJSA1E22GF145333",
@@ -6287,24 +6251,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJSA1E58PF508695",
-      "year": 2023,
-      "model": "Model S",
-      "trim": "W/ HW4 and FSD",
-      "price": 59900.0,
-      "mileage": 74000.0,
-      "dealer": "Autohub Texas",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 CONFIRMED (Dealer/Spec)",
-      "under_33k": false,
-      "deal_score": 56,
-      "title_status": "Clean",
-      "url": "https://www.autohubtexas.com/product-page/2023-tesla-model-s-w-hw4-and-fsd",
-      "source": "Autohub Texas"
-    },
-    {
       "vin": "5YJSA1E54PF528927",
       "year": 2023,
       "model": "Model S",
@@ -6321,24 +6267,6 @@
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E54PF528927/2023-tesla-model-s/",
       "source": "TrueCar"
-    },
-    {
-      "vin": "7SAXCAE58PF386701",
-      "year": 2023,
-      "model": "Model X",
-      "trim": "W/ FSD Paid and HW4",
-      "price": 69900.0,
-      "mileage": 448500.0,
-      "dealer": "Autohub Texas",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 CONFIRMED (Dealer/Spec)",
-      "under_33k": false,
-      "deal_score": 56,
-      "title_status": "Clean",
-      "url": "https://www.autohubtexas.com/product-page/2023-tesla-model-x-w-fsd-paid-and-hw4",
-      "source": "Autohub Texas"
     },
     {
       "vin": "5YJSA1E53RF533832",
@@ -6989,6 +6917,24 @@
       "source": "Carvana"
     },
     {
+      "vin": "7SAXCAE58PF386701",
+      "year": 2023,
+      "model": "Model X",
+      "trim": "W/ FSD Paid and HW4",
+      "price": 69900.0,
+      "mileage": 448500.0,
+      "dealer": "Autohub Texas",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 CONFIRMED (Dealer/Spec)",
+      "under_33k": false,
+      "deal_score": 52,
+      "title_status": "Clean",
+      "url": "https://www.autohubtexas.com/product-page/2023-tesla-model-x-w-fsd-paid-and-hw4",
+      "source": "Autohub Texas"
+    },
+    {
       "vin": "5YJ3E1EA5PF560372",
       "year": 2023,
       "model": "Model 3",
@@ -7277,6 +7223,24 @@
       "source": "TrueCar"
     },
     {
+      "vin": "5YJ3E1ET9SF971316",
+      "year": 2025,
+      "model": "Model 3",
+      "trim": "Performance W/ FSD",
+      "price": 54500.0,
+      "mileage": 8000.0,
+      "dealer": "Autohub Texas",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 CONFIRMED (2024+)",
+      "under_33k": false,
+      "deal_score": 48,
+      "title_status": "Clean",
+      "url": "https://www.autohubtexas.com/product-page/2025-tesla-model-3-performance-w-fsd",
+      "source": "Autohub Texas"
+    },
+    {
       "vin": "7SAXCBE69PF372854",
       "year": 2023,
       "model": "Model X",
@@ -7329,6 +7293,24 @@
       "title_status": "Clean",
       "url": "https://www.autosofdallas.com/inventory/used-2021-tesla-model-3-standard-range-plus-5yj3e1ea5mf098973-in-irving-plano-tx",
       "source": "Autos of Dallas"
+    },
+    {
+      "vin": "7SAYGDEE3NF391991",
+      "year": 2022,
+      "model": "Model Y",
+      "trim": "Long Range AWD",
+      "price": 24500.0,
+      "mileage": 93000.0,
+      "dealer": "Autohub Texas",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 47,
+      "title_status": "Clean",
+      "url": "https://www.autohubtexas.com/product-page/2022-tesla-model-y-long-range-1",
+      "source": "Autohub Texas"
     },
     {
       "vin": "7SAYGDEE8PA058153",
@@ -7853,24 +7835,6 @@
       "source": "Carvana"
     },
     {
-      "vin": "5YJ3E1ET9SF971316",
-      "year": 2025,
-      "model": "Model 3",
-      "trim": "Performance W/ FSD",
-      "price": 54500.0,
-      "mileage": 8000.0,
-      "dealer": "Autohub Texas",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 CONFIRMED (2024+)",
-      "under_33k": false,
-      "deal_score": 38,
-      "title_status": "Clean",
-      "url": "https://www.autohubtexas.com/product-page/2025-tesla-model-3-performance-w-fsd",
-      "source": "Autohub Texas"
-    },
-    {
       "vin": "5YJ3E1EA2KF399827",
       "year": 2019,
       "model": "Model 3",
@@ -7923,6 +7887,24 @@
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE6MF187696/2021-tesla-model-y/",
       "source": "TrueCar"
+    },
+    {
+      "vin": "5YJSA1E29KF333162",
+      "year": 2019,
+      "model": "Model S",
+      "trim": "Long Range Raven w/ FSD",
+      "price": 32500.0,
+      "mileage": 78000.0,
+      "dealer": "Autohub Texas",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 36,
+      "title_status": "Clean",
+      "url": "https://www.autohubtexas.com/product-page/2019-tesla-model-s-long-range-raven-w-fsd-8",
+      "source": "Autohub Texas"
     },
     {
       "vin": "5YJSA1E29MF425763",
@@ -8877,6 +8859,24 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4807728",
       "source": "Carvana"
+    },
+    {
+      "vin": "5YJXCBE26KF180276",
+      "year": 2019,
+      "model": "Model X",
+      "trim": "Long Range Raven w/ FSD",
+      "price": 34900.0,
+      "mileage": 85500.0,
+      "dealer": "Autohub Texas",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": false,
+      "deal_score": 18,
+      "title_status": "Clean",
+      "url": "https://www.autohubtexas.com/product-page/2019-tesla-model-x-long-range-raven-w-fsd-5",
+      "source": "Autohub Texas"
     },
     {
       "vin": "5YJ3E1EC4MF084208",
