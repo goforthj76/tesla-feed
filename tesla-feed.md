@@ -1,5 +1,5 @@
 # Used Tesla Deal Hunter - Live DFW Market Feed
-**Last Sync**: 2026-10-22T14:31:15.957338+00:00 (UTC)
+**Last Sync**: 2026-10-22T14:31:48.772315+00:00 (UTC)
 **Total Listings**: 836 | **HW4 Under $33k Deals**: 63 | **Clean Titles**: 836 | **Trash VINs Flagged**: 0
 
 ## ⭐ Priority: Verified HW4 Under $33k (Clean Title)
@@ -10,8 +10,6 @@
 | 2024 Model 3 | Long Range | $27,500.0 | 31,685.0 mi | First Start Motors Llc (TX) | HW4 CONFIRMED (2024+) | 97/100 | [View Listing](https://www.firststartmotors.com/inventory/tesla/model-3/742171/) |
 | 2023 Model Y | Long Range | $25,224.0 | 126,835.0 mi | North Dallas Cdjr (TX) | HW4 INFERRED (Late 2023 Fremont) | 96/100 | [View Listing](https://www.northdallascdjr.com/used/Tesla/2023-Tesla-Model-Y-ce181efeac182e060860d9a8baf95b72.htm) |
 | 2023 Model Y | Long Range | $25,997.0 | 30,377.0 mi | Rideline (TX) | HW4 INFERRED (Late 2023 Austin) | 96/100 | [View Listing](https://ridelineauto.com/vdp/24393628/Used-2023-Tesla-Model-Y-Long-Range-AWD-for-sale-in-Garland-TX-75041) |
-| 2025 Model Y | Long Range | $31,700.0 | 36,413.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 90/100 | [View Listing](https://www.autosavvy.com/inventory/lindon-ut-used-2025-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0sf267799/) |
-| 2025 Model Y | Long Range | $32,000.0 | 26,568.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 90/100 | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded4sf249216/) |
 | 2024 Model Y | Long Range | $29,600.0 | 43,421.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 86/100 | [View Listing](https://www.autosavvy.com/inventory/windsor-co-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee9ra275567/) |
 | 2023 Model Y | Long Range | $29,998.0 | 44,685.0 mi | Polestar Grapevine (TX) | HW4 INFERRED (Late 2023 Austin) | 86/100 | [View Listing](https://www.polestargrapevine.com/electric-used/Tesla/2023-Tesla-Model-Y-643cba7cac180759d8345629ca43a919.htm) |
 | 2023 Model Y | Long Range | $30,000.0 | 54,117.0 mi | Makka Auto Sales (TX) | HW4 INFERRED (Late 2023 Austin) | 86/100 | [View Listing](https://www.makkaautosalestx.com/details/used-2023-tesla-model-y/128058106) |
@@ -23,7 +21,9 @@
 | 2023 Model Y | Long Range | $30,600.0 | 35,802.0 mi | Autosavvy (TX) | HW4 INFERRED (Late 2023 Fremont) | 84/100 | [View Listing](https://www.autosavvy.com/inventory/post-falls-id-used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee1pf926075/) |
 | 2024 Model Y | Long Range | $30,800.0 | 31,010.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 84/100 | [View Listing](https://www.autosavvy.com/inventory/colorado-springs-co-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee5ra227595/) |
 | 2023 Model Y | Long Range | $31,400.0 | 31,392.0 mi | Tesla (TX) | HW4 INFERRED (Late 2023 Austin) | 84/100 | [View Listing](http://www.tesla.com/my/order/7SAYGDEE8PA163968) |
+| 2025 Model Y | Long Range | $31,700.0 | 36,413.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 84/100 | [View Listing](https://www.autosavvy.com/inventory/lindon-ut-used-2025-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0sf267799/) |
 | 2025 Model 3 | Long Range | $31,700.0 | 25,472.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 84/100 | [View Listing](https://www.autosavvy.com/inventory/clearwater-fl-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea3sf035643/) |
+| 2025 Model Y | Long Range | $32,000.0 | 26,568.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 84/100 | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded4sf249216/) |
 | 2025 Model 3 | Long Range | $32,000.0 | 28,987.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 84/100 | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea6sf043350/) |
 | 2023 Model Y | Long Range | $29,740.0 | 68,007.0 mi | Town North Mazda (TX) | HW4 INFERRED (Late 2023 Austin) | 82/100 | [View Listing](https://www.townnorthmazda.com/inventory/used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee4pa195817/) |
 | 2024 Model 3 | Long Range | $29,997.0 | 30,504.0 mi | Rideline (TX) | HW4 CONFIRMED (2024+) | 82/100 | [View Listing](https://ridelineauto.com/vdp/24143318/Used-2024-Tesla-Model-3-Long-Range-AWD-for-sale-in-Garland-TX-75041) |
@@ -44,15 +44,11 @@
 | 2025 Model 3 | Long Range | $31,200.0 | 6,709.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 78/100 | [View Listing](https://www.autosavvy.com/inventory/reno-nv-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea7sf987299/) |
 | 2024 Model Y | Long Range | $31,222.0 | 23,719.0 mi | Team One Automotive Llc (TX) | HW4 CONFIRMED (2024+) | 78/100 | [View Listing](https://www.autoteamone.com/inventory/tesla/model-y/223829/) |
 | 2024 Model Y | Long Range | $31,700.0 | 21,193.0 mi | Autosavvy Duncanville (TX) | HW4 CONFIRMED (2024+) | 78/100 | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-rwd-4d-sport-utility-7saygdedxrf208504/) |
-| 2024 Model Y | Long Range | $32,149.0 | 94,257.0 mi | My Dream Car Garage (TX) | HW4 CONFIRMED (2024+) | 78/100 | [View Listing](https://www.mydreamcargarage.com/inventory/tesla/model-y/sp052224/) |
 | 2024 Model Y | Long Range | $31,300.0 | 17,096.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 76/100 | [View Listing](https://www.autosavvy.com/inventory/draper-ut-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0rf002455/) |
 | 2024 Model 3 | Base | $31,998.0 | 45,313.0 mi | Carmax Plano (TX) | HW4 CONFIRMED (2024+) | 76/100 | [View Listing](https://www.carmax.com/car/29239622) |
-| 2024 Model Y | Long Range | $32,100.0 | 15,756.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 76/100 | [View Listing](https://www.autosavvy.com/inventory/las-vegas-nv-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee2rf057893/) |
-| 2024 Model Y | Long Range | $32,200.0 | 15,198.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 76/100 | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee3ra289495/) |
 | 2024 Model 3 |  | $32,223.0 | 43,586.0 mi | Moritz Kia Alliance (TX) | HW4 CONFIRMED (2024+) | 76/100 | [View Listing](https://www.moritzkiaalliance.com/viewdetails/used/5yj3e1ea4rf862917/2024-tesla-model-3-4dr-car) |
 | 2023 Model Y | Long Range | $32,990.0 | 51,355.0 mi | Carvana Blue Mound (TX) | HW4 INFERRED (Late 2023 Fremont) | 76/100 | [View Listing](https://www.carvana.com/vehicle/4841491) |
 | 2024 Model Y | Long Range RWD | $31,625 | 21,193 mi | TrueCar Certified Dealer (TX) | HW4 CONFIRMED (2024+) | 74/100 | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEDXRF208504/2024-tesla-model-y/) |
-| 2024 Model Y | Long Range | $32,000.0 | 17,447.0 mi | Autosavvy Duncanville (TX) | HW4 CONFIRMED (2024+) | 74/100 | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdeexra324999/) |
 | 2024 Model Y | Long Range | $33,000.0 | 32,652.0 mi | Makka Auto Sales (TX) | HW4 CONFIRMED (2024+) | 74/100 | [View Listing](https://www.makkaautosalestx.com/details/used-2024-tesla-model-y/131318643) |
 | 2024 Model 3 | Base | $30,000.0 | 9,640.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 72/100 | [View Listing](https://www.autosavvy.com/inventory/austin-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2rf746986/) |
 | 2023 Model Y | Long Range | $31,990.0 | 60,958.0 mi | Carvana Blue Mound (TX) | HW4 INFERRED (Late 2023 Fremont) | 72/100 | [View Listing](https://www.carvana.com/vehicle/4786644) |
@@ -67,8 +63,12 @@
 | 2024 Model Y | Long Range AWD | $31,925 | 17,447 mi | TrueCar Certified Dealer (TX) | HW4 CONFIRMED (2024+) | 70/100 | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEEXRA324999/2024-tesla-model-y/) |
 | 2025 Model 3 | Long Range | $32,192.0 | 8,471.0 mi | Autosavvy Duncanville (TX) | HW4 CONFIRMED (2024+) | 70/100 | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea2sf082792/) |
 | 2025 Model 3 | Long Range | $32,400.0 | 7,624.0 mi | Autosavvy Duncanville (TX) | HW4 CONFIRMED (2024+) | 70/100 | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea5sf999564/) |
+| 2024 Model Y | Long Range | $32,149.0 | 94,257.0 mi | My Dream Car Garage (TX) | HW4 CONFIRMED (2024+) | 68/100 | [View Listing](https://www.mydreamcargarage.com/inventory/tesla/model-y/sp052224/) |
+| 2024 Model Y | Long Range | $32,100.0 | 15,756.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 66/100 | [View Listing](https://www.autosavvy.com/inventory/las-vegas-nv-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee2rf057893/) |
+| 2024 Model Y | Long Range | $32,200.0 | 15,198.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 66/100 | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee3ra289495/) |
 | 2024 Model Y | Long Range | $32,300.0 | 17,318.0 mi | Autosavvy (TX) | HW4 CONFIRMED (2024+) | 66/100 | [View Listing](https://www.autosavvy.com/inventory/woods-cross-ut-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygaee1rf048102/) |
 | 2023 Model Y |  | $32,990.0 | 40,912.0 mi | Carvana (Direct) (TX) | HW4 INFERRED (Late 2023 Austin) | 66/100 | [View Listing](https://www.carvana.com/vehicle/4788073) |
+| 2024 Model Y | Long Range | $32,000.0 | 17,447.0 mi | Autosavvy Duncanville (TX) | HW4 CONFIRMED (2024+) | 64/100 | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdeexra324999/) |
 
 ## 🚗 Active Clean Market Inventory
 
@@ -78,8 +78,6 @@
 | 2024 Model 3 | Long Range | $27,500.0 | 31,685.0 mi | ✅ HW4 | First Start Motors Llc (TX) | [View Listing](https://www.firststartmotors.com/inventory/tesla/model-3/742171/) |
 | 2023 Model Y | Long Range | $25,224.0 | 126,835.0 mi | ✅ HW4 | North Dallas Cdjr (TX) | [View Listing](https://www.northdallascdjr.com/used/Tesla/2023-Tesla-Model-Y-ce181efeac182e060860d9a8baf95b72.htm) |
 | 2023 Model Y | Long Range | $25,997.0 | 30,377.0 mi | ✅ HW4 | Rideline (TX) | [View Listing](https://ridelineauto.com/vdp/24393628/Used-2023-Tesla-Model-Y-Long-Range-AWD-for-sale-in-Garland-TX-75041) |
-| 2025 Model Y | Long Range | $31,700.0 | 36,413.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/lindon-ut-used-2025-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0sf267799/) |
-| 2025 Model Y | Long Range | $32,000.0 | 26,568.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded4sf249216/) |
 | 2024 Model Y | Long Range | $29,600.0 | 43,421.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/windsor-co-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee9ra275567/) |
 | 2023 Model Y | Long Range | $29,998.0 | 44,685.0 mi | ✅ HW4 | Polestar Grapevine (TX) | [View Listing](https://www.polestargrapevine.com/electric-used/Tesla/2023-Tesla-Model-Y-643cba7cac180759d8345629ca43a919.htm) |
 | 2023 Model Y | Long Range | $30,000.0 | 54,117.0 mi | ✅ HW4 | Makka Auto Sales (TX) | [View Listing](https://www.makkaautosalestx.com/details/used-2023-tesla-model-y/128058106) |
@@ -91,7 +89,9 @@
 | 2023 Model Y | Long Range | $30,600.0 | 35,802.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/post-falls-id-used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee1pf926075/) |
 | 2024 Model Y | Long Range | $30,800.0 | 31,010.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/colorado-springs-co-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee5ra227595/) |
 | 2023 Model Y | Long Range | $31,400.0 | 31,392.0 mi | ✅ HW4 | Tesla (TX) | [View Listing](http://www.tesla.com/my/order/7SAYGDEE8PA163968) |
+| 2025 Model Y | Long Range | $31,700.0 | 36,413.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/lindon-ut-used-2025-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0sf267799/) |
 | 2025 Model 3 | Long Range | $31,700.0 | 25,472.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/clearwater-fl-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea3sf035643/) |
+| 2025 Model Y | Long Range | $32,000.0 | 26,568.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded4sf249216/) |
 | 2025 Model 3 | Long Range | $32,000.0 | 28,987.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea6sf043350/) |
 | 2023 Model Y | Long Range | $29,740.0 | 68,007.0 mi | ✅ HW4 | Town North Mazda (TX) | [View Listing](https://www.townnorthmazda.com/inventory/used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee4pa195817/) |
 | 2024 Model 3 | Long Range | $29,997.0 | 30,504.0 mi | ✅ HW4 | Rideline (TX) | [View Listing](https://ridelineauto.com/vdp/24143318/Used-2024-Tesla-Model-3-Long-Range-AWD-for-sale-in-Garland-TX-75041) |
@@ -112,15 +112,11 @@
 | 2025 Model 3 | Long Range | $31,200.0 | 6,709.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/reno-nv-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea7sf987299/) |
 | 2024 Model Y | Long Range | $31,222.0 | 23,719.0 mi | ✅ HW4 | Team One Automotive Llc (TX) | [View Listing](https://www.autoteamone.com/inventory/tesla/model-y/223829/) |
 | 2024 Model Y | Long Range | $31,700.0 | 21,193.0 mi | ✅ HW4 | Autosavvy Duncanville (TX) | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-rwd-4d-sport-utility-7saygdedxrf208504/) |
-| 2024 Model Y | Long Range | $32,149.0 | 94,257.0 mi | ✅ HW4 | My Dream Car Garage (TX) | [View Listing](https://www.mydreamcargarage.com/inventory/tesla/model-y/sp052224/) |
 | 2024 Model Y | Long Range | $31,300.0 | 17,096.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/draper-ut-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0rf002455/) |
 | 2024 Model 3 | Base | $31,998.0 | 45,313.0 mi | ✅ HW4 | Carmax Plano (TX) | [View Listing](https://www.carmax.com/car/29239622) |
-| 2024 Model Y | Long Range | $32,100.0 | 15,756.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/las-vegas-nv-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee2rf057893/) |
-| 2024 Model Y | Long Range | $32,200.0 | 15,198.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee3ra289495/) |
 | 2024 Model 3 |  | $32,223.0 | 43,586.0 mi | ✅ HW4 | Moritz Kia Alliance (TX) | [View Listing](https://www.moritzkiaalliance.com/viewdetails/used/5yj3e1ea4rf862917/2024-tesla-model-3-4dr-car) |
 | 2023 Model Y | Long Range | $32,990.0 | 51,355.0 mi | ✅ HW4 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4841491) |
 | 2024 Model Y | Long Range RWD | $31,625 | 21,193 mi | ✅ HW4 | TrueCar Certified Dealer (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEDXRF208504/2024-tesla-model-y/) |
-| 2024 Model Y | Long Range | $32,000.0 | 17,447.0 mi | ✅ HW4 | Autosavvy Duncanville (TX) | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdeexra324999/) |
 | 2024 Model Y | Long Range | $33,000.0 | 32,652.0 mi | ✅ HW4 | Makka Auto Sales (TX) | [View Listing](https://www.makkaautosalestx.com/details/used-2024-tesla-model-y/131318643) |
 | 2024 Model 3 | Base | $30,000.0 | 9,640.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/austin-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2rf746986/) |
 | 2023 Model Y | Long Range | $31,990.0 | 60,958.0 mi | ✅ HW4 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4786644) |
@@ -135,8 +131,12 @@
 | 2024 Model Y | Long Range AWD | $31,925 | 17,447 mi | ✅ HW4 | TrueCar Certified Dealer (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEEXRA324999/2024-tesla-model-y/) |
 | 2025 Model 3 | Long Range | $32,192.0 | 8,471.0 mi | ✅ HW4 | Autosavvy Duncanville (TX) | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea2sf082792/) |
 | 2025 Model 3 | Long Range | $32,400.0 | 7,624.0 mi | ✅ HW4 | Autosavvy Duncanville (TX) | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea5sf999564/) |
+| 2024 Model Y | Long Range | $32,149.0 | 94,257.0 mi | ✅ HW4 | My Dream Car Garage (TX) | [View Listing](https://www.mydreamcargarage.com/inventory/tesla/model-y/sp052224/) |
+| 2024 Model Y | Long Range | $32,100.0 | 15,756.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/las-vegas-nv-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee2rf057893/) |
+| 2024 Model Y | Long Range | $32,200.0 | 15,198.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee3ra289495/) |
 | 2024 Model Y | Long Range | $32,300.0 | 17,318.0 mi | ✅ HW4 | Autosavvy (TX) | [View Listing](https://www.autosavvy.com/inventory/woods-cross-ut-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygaee1rf048102/) |
 | 2023 Model Y |  | $32,990.0 | 40,912.0 mi | ✅ HW4 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4788073) |
+| 2024 Model Y | Long Range | $32,000.0 | 17,447.0 mi | ✅ HW4 | Autosavvy Duncanville (TX) | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdeexra324999/) |
 | 2026 Model Y | Premium RWD | $39,970 | 39,777 mi | ✅ HW4 | eCarOne Dallas - Plano, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDED9TA417298/2026-tesla-model-y/) |
 | 2023 Model X | Standard Range | $49,594 | 51,675 mi | ✅ HW4 | Auto Web Expo (Plano) - plano, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAXCDE53PF371492/2023-tesla-model-x/) |
 | 2023 Model S | Standard Range | $50,499 | 56,741 mi | ✅ HW4 | Audi Plano - Plano, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E58PF505005/2023-tesla-model-s/) |
@@ -311,7 +311,6 @@
 | 2021 Model 3 | Base | $21,835.0 | 91,759.0 mi | HW3 | Lewisville Autoplex Mitsubishi (TX) | [View Listing](https://www.lewisvillemitsu.com/used/Tesla/2021-Tesla-Model-3-36ec1e8bac185afede2e802ec9421897.htm) |
 | 2018 Model X | 75D | $22,081.0 | 97,170.0 mi | HW3 | Autonation Hyundai North Richland Hills (TX) | [View Listing](https://www.autonationhyundainorthrichlandhills.com/used/Tesla/2018-Tesla-Model-X-568ffcf9ac1844a957f07faaaf3d143d.htm) |
 | 2022 Model 3 | Base | $22,487.0 | 95,536.0 mi | HW3 | Alfa Romeo Of Plano (TX) | [View Listing](https://www.alfaofplano.com/inventory/used-2022-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea9nf185762/) |
-| 2022 Model 3 | Base | $22,990.0 | 82,103.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4743877) |
 | 2023 Model 3 | Base | $24,221.0 | 45,937.0 mi | HW3 | Certified Autoplex (TX) | [View Listing](https://www.certifiedautoplex.com/vehicle-details/used-2023-tesla-model-3-base-dallas-tx-id-65862144) |
 | 2023 Model 3 | Base | $24,400.0 | 43,823.0 mi | HW3 | Auto Merchants Inc. (TX) | [View Listing](https://www.automerchants.com/vehicle-details/used-2023-tesla-model-3-rear-wheel-drive-plano-tx-id-65674097) |
 | 2016 Model X | 75D | $24,995.0 | 52,648.0 mi | HW3 | Imd Motors Inc (TX) | [View Listing](http://www.imdmotorsinc.com/pre-owned-cars/detail/2016-Tesla-Model-X-90D/1568409) |
@@ -374,7 +373,6 @@
 | 2023 Model 3 | RWD | $23,922 | 112,180 mi | HW3 | Dallas I Car - Addison, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA4PF639029/2023-tesla-model-3/) |
 | 2022 Model Y | Performance AWD | $23,989 | 122,929 mi | HW3 | Car Place Dallas - Addison, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEF7NF319944/2022-tesla-model-y/) |
 | 2023 Model 3 | Base | $25,224.0 | 44,722.0 mi | HW3 | Centenario Auto Sales Inc (TX) | [View Listing](https://centenarioautosales.mycarsonline.com/inventory/tesla/model-3/639648/) |
-| 2023 Model Y | Long Range | $28,499.0 | 59,174.0 mi | HW3 | Auto Merchants Inc. (TX) | [View Listing](https://www.automerchants.com/vehicle-details/used-2023-tesla-model-y-long-range-dual-motor-all-wheel-drive-plano-tx-id-65771863) |
 | 2023 Model Y | Long Range AWD | $28,649 | 59,174 mi | HW3 | Auto Merchants Inc - Plano, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEE2PF695560/2023-tesla-model-y/) |
 | 2021 Model 3 | Base | $22,222.0 | 62,827.0 mi | HW3 | Carz Usa (TX) | [View Listing](https://www.carzusa.com/vehicle-details/2021-tesla-model-3-standard-range-plus-sedan-bb1b65c3a26148e681c5001d87277a8c) |
 | 2019 Model 3 |  | $22,400.0 | 74,516.0 mi | HW3 | Auto Merchants Inc. (TX) | [View Listing](https://www.automerchants.com/vehicle-details/used-2019-tesla-model-3-performance-plano-tx-id-65089291) |
@@ -401,12 +399,10 @@
 | 2023 Model 3 | Base | $24,995.0 | 60,882.0 mi | HW3 | Autoex (TX) | [View Listing](https://www.autoexllc.com/Inventory/Details/bc240f66-c433-494c-b7af-526545051a19) |
 | 2023 Model 3 | Base | $25,149.0 | 64,712.0 mi | HW3 | My Dream Car Garage (TX) | [View Listing](https://www.mydreamcargarage.com/inventory/tesla/model-3/sp589742/) |
 | 2022 Model 3 | Long Range AWD | $25,355 | 68,089 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EB7NF313361/2022-tesla-model-3/) |
-| 2022 Model 3 | Long Range | $25,575.0 | 77,729.0 mi | HW3 | Don Herring Irving Mitsubishi (TX) | [View Listing](https://www.donherringirving.com/used-Irving-2022-Tesla-Model+3-Long+Range-5YJ3E1EB8NF355439) |
 | 2023 Model 3 | Base | $25,590.0 | 67,004.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4751447) |
 | 2023 Model 3 | RWD | $25,899 | 63,007 mi | HW3 | Car Place Dallas - Addison, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA5PF464774/2023-tesla-model-3/) |
 | 2023 Model 3 | Base | $25,990.0 | 62,983.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4807800) |
 | 2023 Model 3 | Base | $26,124.0 | 63,007.0 mi | HW3 | Car Place Dallas (TX) | [View Listing](https://carplacedallas.com/inventory/used-2023-tesla-model-3-standard-sedan-4d-5yj3e1ea5pf464774-in-addison-tx) |
-| 2022 Model Y | Long Range | $26,444.0 | 95,675.0 mi | HW3 | Brandon Tomes Chrysler Dodge Jeep Ram (TX) | [View Listing](https://www.brandontomescdjr.com/used/Tesla/2022-Tesla-Model-Y-fc44af30ac184802ed4b48542c45688a.htm) |
 | 2021 Model S | Long Range Plus | $29,988.0 | 155,754.0 mi | HW3 | Kian Motors (TX) | [View Listing](https://www.kianmotors.com/used/Tesla/2021-Tesla-Model-S-1f2e9b65ac1819a0b1e00841eb0f8159.htm) |
 | 2023 Model X | Standard Range | $65,989 | 28,698 mi | ✅ HW4 | Car Place Dallas - Addison, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE52PF378793/2023-tesla-model-x/) |
 | 2022 Model 3 | Base | $23,913.0 | 78,477.0 mi | HW3 | Pat Lobb Toyota Of Mckinney (TX) | [View Listing](https://www.toyotaofmckinney.com/electric-used/Tesla/2022-Tesla-Model-3-in-McKinney-near-Plano-TX-4af3103dac182ca389c28a5a85661456.htm) |
@@ -435,6 +431,7 @@
 | 2018 Model 3 |  | $22,000.0 | 39,476.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/m3/order/5YJ3E1EAXJF164669) |
 | 2020 Model 3 | Long Range Dual Motor | $22,145 | 95,100 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EB1LF665039/2020-tesla-model-3/) |
 | 2019 Model 3 | Base | $22,590.0 | 82,569.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4787888) |
+| 2022 Model 3 | Base | $22,990.0 | 82,103.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4743877) |
 | 2021 Model 3 | Base | $23,799.0 | 84,816.0 mi | HW3 | My Dream Car Garage (TX) | [View Listing](https://www.mydreamcargarage.com/inventory/tesla/model-3/sp049113/) |
 | 2022 Model 3 | Long Range | $23,895.0 | 92,837.0 mi | HW3 | Bishop Maserati (TX) | [View Listing](https://www.bishopmaserati.com/inventory/used-2022-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb6nf193472/) |
 | 2021 Model 3 | Base | $23,977.0 | 88,497.0 mi | HW3 | Idrive1 Motorcars (TX) | [View Listing](https://www.idrive1.net/used/Tesla/2021-Tesla-Model-3-f4f444f3ac182dab7f8eb2cfb219727c.htm) |
@@ -485,6 +482,7 @@
 | 2023 Model 3 | Base | $27,800.0 | 39,121.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/m3/order/5YJ3E1EA6PF511696) |
 | 2021 Model Y | Long Range | $27,800.0 | 93,159.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/my/order/5YJYGDEE9MF114161) |
 | 2023 Model 3 | Base | $27,990.0 | 39,120.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4827438) |
+| 2023 Model Y | Long Range | $28,499.0 | 59,174.0 mi | HW3 | Auto Merchants Inc. (TX) | [View Listing](https://www.automerchants.com/vehicle-details/used-2023-tesla-model-y-long-range-dual-motor-all-wheel-drive-plano-tx-id-65771863) |
 | 2020 Model X | Long Range | $29,995.0 | 92,837.0 mi | HW3 | Bishop Maserati (TX) | [View Listing](https://www.bishopmaserati.com/inventory/used-2020-tesla-model-x-long-range-awd-4d-sport-utility-5yjxcde20lf231252/) |
 | 2023 Model S | Plaid | $79,303 | 27,292 mi | ✅ HW4 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E66PF511085/2023-tesla-model-s/) |
 | 2018 Model 3 | Long Range | $22,477.0 | 51,724.0 mi | HW3 | Idrive1 Motorcars (TX) | [View Listing](https://www.idrive1.net/used/Tesla/2018-Tesla-Model-3-f8d28965ac185554d25bbe289205a4d9.htm) |
@@ -496,7 +494,6 @@
 | 2023 Model 3 |  | $24,990.0 | 73,739.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4813877) |
 | 2022 Model 3 | Long Range | $25,300.0 | 83,074.0 mi | HW3 | Fastlane Auto Sales (TX) | [View Listing](https://www.fastlanedfw.com/inventory/tesla/model3/174733/) |
 | 2018 Model X | 75D | $25,495.0 | 106,006.0 mi | HW3 | Autoex (TX) | [View Listing](https://www.autoexllc.com/Inventory/Details/3bcf3474-cf8d-4bcf-86f5-d6d8cf76947a) |
-| 2022 Model 3 | Performance | $25,586.0 | 104,889.0 mi | HW3 | Bishop Maserati (TX) | [View Listing](https://www.bishopmaserati.com/inventory/used-2022-tesla-model-3-performance-awd-4d-sedan-5yj3e1ecxnf121618/) |
 | 2023 Model 3 |  | $25,590.0 | 71,838.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4725060) |
 | 2023 Model 3 |  | $25,590.0 | 62,897.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4812149) |
 | 2021 Model Y | Long Range | $26,337.0 | 87,745.0 mi | HW3 | Lonestar Mitsubishi (TX) | [View Listing](https://www.lonestarmitsubishi.com/inventory/used-2021-tesla-model-y-long-range-awd-4d-sport-utility-5yjygdee0mf085052/) |
@@ -512,6 +509,7 @@
 | 2021 Model 3 | Base | $25,590.0 | 49,532.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4839571) |
 | 2022 Model 3 | Base | $25,795.0 | 50,780.0 mi | HW3 | Autoex (TX) | [View Listing](https://www.autoexllc.com/Inventory/Details/5a7207ca-564e-44d8-94c9-2a027a4e09ae) |
 | 2021 Model 3 | Base | $25,998.0 | 49,615.0 mi | HW3 | Carmax Texas Stadium (irving) (TX) | [View Listing](https://www.carmax.com/car/70069101) |
+| 2022 Model Y | Long Range | $26,444.0 | 95,675.0 mi | HW3 | Brandon Tomes Chrysler Dodge Jeep Ram (TX) | [View Listing](https://www.brandontomescdjr.com/used/Tesla/2022-Tesla-Model-Y-fc44af30ac184802ed4b48542c45688a.htm) |
 | 2023 Model 3 |  | $26,590.0 | 60,135.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4770207) |
 | 2023 Model 3 |  | $26,590.0 | 60,888.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4801575) |
 | 2023 Model Y | Long Range AWD | $28,528 | 81,988 mi | HW3 | TrueCar Certified Dealer (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEE2PA057550/2023-tesla-model-y/) |
@@ -578,8 +576,10 @@
 | 2019 Model 3 | Long Range | $24,950.0 | 77,604.0 mi | HW3 | Skylane Auto Source Llc (TX) | [View Listing](https://www.skylanedrive.com/inventory/tesla/model3/387868/) |
 | 2021 Model Y |  | $24,990.0 | 104,355.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4828579) |
 | 2020 Model 3 | Base | $24,998.0 | 79,631.0 mi | HW3 | Carmax Denton (TX) | [View Listing](https://www.carmax.com/car/28615167) |
+| 2019 Model 3 | Long Range | $24,999.0 | 61,157.0 mi | HW3 | Kian Motors (TX) | [View Listing](https://www.kianmotors.com/used/Tesla/2019-Tesla-Model-3-2533914bac183bfdace2606e153a5f88.htm) |
 | 2020 Model 3 | Base | $25,520.0 | 67,574.0 mi | HW3 | Mini Of Dallas (TX) | [View Listing](https://www.miniofdallas.com/used/Tesla/2020-Tesla-Model-3-2731a280ac18575e6445583afc7c2c11.htm) |
 | 2020 Model 3 | Long Range Dual Motor | $25,520 | 67,574 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EB9LF616817/2020-tesla-model-3/) |
+| 2022 Model 3 | Long Range | $25,575.0 | 77,729.0 mi | HW3 | Don Herring Irving Mitsubishi (TX) | [View Listing](https://www.donherringirving.com/used-Irving-2022-Tesla-Model+3-Long+Range-5YJ3E1EB8NF355439) |
 | 2022 Model 3 | Long Range | $25,988.0 | 70,384.0 mi | HW3 | Gulliver Auto Group (TX) | [View Listing](https://www.gulliverauto.com/inventory/used-2022-tesla-model-3-long-range-5yj3e1eb6nf238166-in-plano-tx) |
 | 2020 Model 3 | Standard Range Plus RWD | $25,998 | 67,380 mi | HW3 | CarMax Texas Stadium (Irving) - Irving, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA1LF736537/2020-tesla-model-3/) |
 | 2022 Model Y | Performance | $28,497.0 | 82,966.0 mi | HW3 | Ecarone (TX) | [View Listing](https://www.ecarone.com/used/Tesla/2022-Tesla-Model-Y-near-dallas-tx-1376b0dbac180fd5248013148eca30c2.htm) |
@@ -689,6 +689,7 @@
 | 2018 Model S | 75D | $24,936.0 | 86,027.0 mi | HW3 | Audi Mckinney (TX) | [View Listing](https://www.audimckinney.com/en/inventory/vehicle/?isdealer&market=usuc&vehicleId=5YJSA1E26JF274456) |
 | 2021 Model 3 | Base | $24,990.0 | 91,511.0 mi | HW3 | Carvana Hutchins (TX) | [View Listing](https://www.carvana.com/vehicle/4809147) |
 | 2021 Model 3 | Base | $24,995.0 | 127,798.0 mi | HW3 | Texas Autoplace (TX) | [View Listing](https://www.texasautoplace.com/vehicle-details/2021-tesla-model-3-long-range-sedan-b231c53637ac1440a2fd48e268e2ebcd) |
+| 2022 Model 3 | Performance | $25,586.0 | 104,889.0 mi | HW3 | Bishop Maserati (TX) | [View Listing](https://www.bishopmaserati.com/inventory/used-2022-tesla-model-3-performance-awd-4d-sedan-5yj3e1ecxnf121618/) |
 | 2020 Model 3 |  | $25,590.0 | 77,025.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4669674) |
 | 2021 Model 3 | Base | $25,995.0 | 82,741.0 mi | HW3 | Silver Star Motors (TX) | [View Listing](https://www.carsforsale.com/used-car-dealer/silverstar-motors-midlothian-tx-d719113/inventory/details/131364568) |
 | 2020 Model 3 | Base | $26,990.0 | 44,947.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4678171) |
@@ -716,7 +717,6 @@
 | 2022 Model 3 | Long Range | $26,888.0 | 65,721.0 mi | HW3 | Grubbs Kia Of Wichita Falls (TX) | [View Listing](https://www.grubbskiawichitafalls.com/used-Wichita+Falls-2022-Tesla-Model+3-Long+Range-5YJ3E1EB4NF267455) |
 | 2021 Model 3 |  | $24,590.0 | 81,160.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4785362) |
 | 2021 Model 3 |  | $24,990.0 | 89,329.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4813102) |
-| 2019 Model 3 | Long Range | $24,999.0 | 61,157.0 mi | HW3 | Kian Motors (TX) | [View Listing](https://www.kianmotors.com/used/Tesla/2019-Tesla-Model-3-2533914bac183bfdace2606e153a5f88.htm) |
 | 2020 Model 3 | Base | $26,400.0 | 77,641.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/m3/order/5YJ3E1EC1LF602189) |
 | 2022 Model 3 | Performance | $27,113.0 | 82,739.0 mi | HW3 | Platinum Ford (TX) | [View Listing](https://www.platinumford.com/viewdetails/used/5yj3e1ec7nf266292/2022-tesla-model-3-sedan?type=finance) |
 | 2019 Model 3 | Base | $27,988.0 | 37,005.0 mi | HW3 | Auto Casa (TX) | [View Listing](https://www.autocasadallas.com/inventory/tesla/model3/12412/) |
@@ -768,7 +768,6 @@
 | 2022 Model Y | Performance | $30,220.0 | 60,915.0 mi | HW3 | Burleson Honda (TX) | [View Listing](https://www.burlesonhonda.com/used/Tesla/2022-Tesla-Model-Y-4c8256faac18437bfc1e90ac38386031.htm) |
 | 2022 Model Y | Long Range | $31,300.0 | 85,902.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/my/order/7SAYGDEE5NA022577) |
 | 2022 Model Y | Long Range | $31,300.0 | 94,246.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/my/order/7SAYGDEEXNA004480) |
-| 2022 Model Y | Long Range | $32,300.0 | 85,657.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/my/order/7SAYGDEE4NA012638) |
 | 2023 Model Y | Long Range | $33,126.0 | 51,985.0 mi | HW3 | Alfa Romeo Of Plano (TX) | [View Listing](https://www.alfaofplano.com/inventory/used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee4pa040345/) |
 | 2023 Model Y | Long Range | $33,458.0 | 45,540.0 mi | HW3 | Vandergriff Acura (TX) | [View Listing](https://www.vandergriffacura.com/used/Tesla/2023-Tesla-Model-Y-f3e366bbac18102d29ca7f4b276c0033.htm) |
 | 2023 Model Y | Long Range | $33,577.0 | 47,234.0 mi | HW3 | Idrive1 Motorcars (TX) | [View Listing](https://www.idrive1.net/used/Tesla/2023-Tesla-Model-Y-0eb741ddac1806945ded62750cc5b737.htm) |
@@ -861,6 +860,7 @@
 | 2023 Model 3 |  | $30,990.0 | 39,749.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4726435) |
 | 2022 Model 3 | Long Range | $30,998.0 | 68,618.0 mi | HW3 | Carmax Garland (TX) | [View Listing](https://www.carmax.com/car/70315126) |
 | 2021 Model Y | Long Range | $31,491.0 | 70,583.0 mi | HW3 | Car Factory Texas (TX) | [View Listing](https://www.carfactorytexas.com/vehicle-details/used-2021-tesla-model-y-long-range-awd-lancaster-tx-id-66058592) |
+| 2022 Model Y | Long Range | $32,300.0 | 85,657.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/my/order/7SAYGDEE4NA012638) |
 | 2020 Model Y |  | $32,590.0 | 29,845.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4715336) |
 | 2023 Model Y |  | $33,590.0 | 41,943.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4771231) |
 | 2023 Model Y |  | $33,990.0 | 41,852.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4781299) |
