@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:58:17.469202+00:00",
+  "updated_at": "2026-10-22T09:00:40.778089+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 804,
   "total_hw4_under_33k": 54,
@@ -421,24 +421,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "7SAYGDEE8PF807391",
-      "year": 2023,
-      "model": "Model Y",
-      "trim": "Long Range",
-      "price": 31997.0,
-      "mileage": 30036.0,
-      "dealer": "Rideline",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 INFERRED (Late 2023 Fremont)",
-      "under_33k": true,
-      "deal_score": 82,
-      "title_status": "Clean",
-      "url": "https://ridelineauto.com/vdp/24143930/Used-2023-Tesla-Model-Y-Long-Range-for-sale-in-Garland-TX-75041",
-      "source": "MarketCheck"
-    },
-    {
       "vin": "5YJ3E1EA2RF869655",
       "year": 2024,
       "model": "Model 3",
@@ -796,6 +778,24 @@
       "deal_score": 72,
       "title_status": "Clean",
       "url": "https://www.autosavvy.com/inventory/austin-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2rf746986/",
+      "source": "MarketCheck"
+    },
+    {
+      "vin": "7SAYGDEE8PF807391",
+      "year": 2023,
+      "model": "Model Y",
+      "trim": "Long Range",
+      "price": 31997.0,
+      "mileage": 30036.0,
+      "dealer": "Rideline",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 INFERRED (Late 2023 Fremont)",
+      "under_33k": true,
+      "deal_score": 72,
+      "title_status": "Clean",
+      "url": "https://ridelineauto.com/vdp/24143930/Used-2023-Tesla-Model-Y-Long-Range-for-sale-in-Garland-TX-75041",
       "source": "MarketCheck"
     },
     {
@@ -1395,24 +1395,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "7SAYGDEE8PF807391",
-      "year": 2023,
-      "model": "Model Y",
-      "trim": "Long Range",
-      "price": 31997.0,
-      "mileage": 30036.0,
-      "dealer": "Rideline",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 INFERRED (Late 2023 Fremont)",
-      "under_33k": true,
-      "deal_score": 82,
-      "title_status": "Clean",
-      "url": "https://ridelineauto.com/vdp/24143930/Used-2023-Tesla-Model-Y-Long-Range-for-sale-in-Garland-TX-75041",
-      "source": "MarketCheck"
-    },
-    {
       "vin": "5YJ3E1EA2RF869655",
       "year": 2024,
       "model": "Model 3",
@@ -1770,6 +1752,24 @@
       "deal_score": 72,
       "title_status": "Clean",
       "url": "https://www.autosavvy.com/inventory/austin-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2rf746986/",
+      "source": "MarketCheck"
+    },
+    {
+      "vin": "7SAYGDEE8PF807391",
+      "year": 2023,
+      "model": "Model Y",
+      "trim": "Long Range",
+      "price": 31997.0,
+      "mileage": 30036.0,
+      "dealer": "Rideline",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 INFERRED (Late 2023 Fremont)",
+      "under_33k": true,
+      "deal_score": 72,
+      "title_status": "Clean",
+      "url": "https://ridelineauto.com/vdp/24143930/Used-2023-Tesla-Model-Y-Long-Range-for-sale-in-Garland-TX-75041",
       "source": "MarketCheck"
     },
     {
@@ -4347,24 +4347,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJYGDEE7LF012498",
-      "year": 2020,
-      "model": "Model Y",
-      "trim": "Long Range",
-      "price": 22000.0,
-      "mileage": 104942.0,
-      "dealer": "Kanda Motors",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 52,
-      "title_status": "Clean",
-      "url": "https://www.kandamotors.com/cars-for-sale/2020-tesla-model-y-long-range-dallas-tx/",
-      "source": "MarketCheck"
-    },
-    {
       "vin": "5YJ3E1EA8KF428814",
       "year": 2019,
       "model": "Model 3",
@@ -5967,6 +5949,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJYGDEE7LF012498",
+      "year": 2020,
+      "model": "Model Y",
+      "trim": "Long Range",
+      "price": 22000.0,
+      "mileage": 104942.0,
+      "dealer": "Kanda Motors",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 46,
+      "title_status": "Clean",
+      "url": "https://www.kandamotors.com/cars-for-sale/2020-tesla-model-y-long-range-dallas-tx/",
+      "source": "MarketCheck"
+    },
+    {
       "vin": "5YJYGDEE6MF263773",
       "year": 2021,
       "model": "Model Y",
@@ -6831,24 +6831,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJYGDEE0LF008549",
-      "year": 2020,
-      "model": "Model Y",
-      "trim": "Long Range",
-      "price": 24728.0,
-      "mileage": 104672.0,
-      "dealer": "South Dallas Mitsubishi",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 43,
-      "title_status": "Clean",
-      "url": "https://www.southdallasmitsu.com/used/Tesla/2020-Tesla-Model-Y-f994c77eac180c6d02a6c272bd8d9f46.htm",
-      "source": "MarketCheck"
-    },
-    {
       "vin": "5YJYGDEEXMF295237",
       "year": 2021,
       "model": "Model Y",
@@ -6954,6 +6936,24 @@
       "deal_score": 43,
       "title_status": "Clean",
       "url": "https://www.autowebexpo.com/used/Tesla/2022-Tesla-Model-Y-carrollton-tx-b10b9fc3ac180452334db88bc63de000.htm",
+      "source": "MarketCheck"
+    },
+    {
+      "vin": "5YJYGDEE5MF253221",
+      "year": 2021,
+      "model": "Model Y",
+      "trim": "Long Range",
+      "price": 27977.0,
+      "mileage": 63953.0,
+      "dealer": "Idrive1 Motorcars",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 43,
+      "title_status": "Clean",
+      "url": "https://www.idrive1.net/used/Tesla/2021-Tesla-Model-Y-41ce2862ac18408556963d5e60c8f6fe.htm",
       "source": "MarketCheck"
     },
     {
@@ -8757,6 +8757,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJYGDEE0LF008549",
+      "year": 2020,
+      "model": "Model Y",
+      "trim": "Long Range",
+      "price": 24728.0,
+      "mileage": 104672.0,
+      "dealer": "South Dallas Mitsubishi",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 37,
+      "title_status": "Clean",
+      "url": "https://www.southdallasmitsu.com/used/Tesla/2020-Tesla-Model-Y-f994c77eac180c6d02a6c272bd8d9f46.htm",
+      "source": "MarketCheck"
+    },
+    {
       "vin": "5YJ3E1EA8LF661142",
       "year": 2020,
       "model": "Model 3",
@@ -10233,24 +10251,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJYGDEE5MF253221",
-      "year": 2021,
-      "model": "Model Y",
-      "trim": "Long Range",
-      "price": 27977.0,
-      "mileage": 63953.0,
-      "dealer": "Idrive1 Motorcars",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 33,
-      "title_status": "Clean",
-      "url": "https://www.idrive1.net/used/Tesla/2021-Tesla-Model-Y-41ce2862ac18408556963d5e60c8f6fe.htm",
-      "source": "MarketCheck"
-    },
-    {
       "vin": "5YJ3E1EB5NF112378",
       "year": 2022,
       "model": "Model 3",
@@ -10284,24 +10284,6 @@
       "deal_score": 32,
       "title_status": "Clean",
       "url": "https://www.autoexllc.com/Inventory/Details/ed113140-7ccc-4ec1-80d9-c5f1ffa3e081",
-      "source": "MarketCheck"
-    },
-    {
-      "vin": "5YJSA1V40FF099212",
-      "year": 2015,
-      "model": "Model S",
-      "trim": "P85D",
-      "price": 21990.0,
-      "mileage": 98493.0,
-      "dealer": "Carvana Blue Mound",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 32,
-      "title_status": "Clean",
-      "url": "https://www.carvana.com/vehicle/4712136",
       "source": "MarketCheck"
     },
     {
@@ -11313,24 +11295,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJYGDEE9LF054106",
-      "year": 2020,
-      "model": "Model Y",
-      "trim": "Long Range",
-      "price": 30388.0,
-      "mileage": 48184.0,
-      "dealer": "Gulliver Auto Group",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 30,
-      "title_status": "Clean",
-      "url": "https://www.gulliverauto.com/inventory/used-2020-tesla-model-y-long-range-5yjygdee9lf054106-in-plano-tx",
-      "source": "MarketCheck"
-    },
-    {
       "vin": "7SAYGDEE9NF435332",
       "year": 2022,
       "model": "Model Y",
@@ -12249,24 +12213,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJ3E1EB7NF269362",
-      "year": 2022,
-      "model": "Model 3",
-      "trim": "Long Range",
-      "price": 28200.0,
-      "mileage": 78380.0,
-      "dealer": "Tesla",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 26,
-      "title_status": "Clean",
-      "url": "http://www.tesla.com/m3/order/5YJ3E1EB7NF269362",
-      "source": "MarketCheck"
-    },
-    {
       "vin": "5YJYGDEE7LF035926",
       "year": 2020,
       "model": "Model Y",
@@ -12825,6 +12771,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJSA1V40FF099212",
+      "year": 2015,
+      "model": "Model S",
+      "trim": "P85D",
+      "price": 21990.0,
+      "mileage": 98493.0,
+      "dealer": "Carvana Blue Mound",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 24,
+      "title_status": "Clean",
+      "url": "https://www.carvana.com/vehicle/4712136",
+      "source": "MarketCheck"
+    },
+    {
       "vin": "5YJ3E1EC5LF602602",
       "year": 2020,
       "model": "Model 3",
@@ -12841,24 +12805,6 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4818031",
       "source": "Carvana"
-    },
-    {
-      "vin": "5YJ3E1EB9NF242924",
-      "year": 2022,
-      "model": "Model 3",
-      "trim": "Long Range",
-      "price": 28200.0,
-      "mileage": 94624.0,
-      "dealer": "Tesla",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 24,
-      "title_status": "Clean",
-      "url": "http://www.tesla.com/m3/order/5YJ3E1EB9NF242924",
-      "source": "MarketCheck"
     },
     {
       "vin": "5YJYGDEE9MF114161",
@@ -13383,24 +13329,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJ3E1EA6PF638836",
-      "year": 2023,
-      "model": "Model 3",
-      "trim": "Base",
-      "price": 29590.0,
-      "mileage": 16608.0,
-      "dealer": "Carvana Blue Mound",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 22,
-      "title_status": "Clean",
-      "url": "https://www.carvana.com/vehicle/4734129",
-      "source": "MarketCheck"
-    },
-    {
       "vin": "5YJ3E1EA5PF489318",
       "year": 2023,
       "model": "Model 3",
@@ -13434,6 +13362,24 @@
       "deal_score": 22,
       "title_status": "Clean",
       "url": "https://www.idrive1.net/used/Tesla/2022-Tesla-Model-3-3bc8ef8eac1822fe7566488fbe73cc19.htm",
+      "source": "MarketCheck"
+    },
+    {
+      "vin": "5YJYGDEE9LF054106",
+      "year": 2020,
+      "model": "Model Y",
+      "trim": "Long Range",
+      "price": 30388.0,
+      "mileage": 48184.0,
+      "dealer": "Gulliver Auto Group",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 22,
+      "title_status": "Clean",
+      "url": "https://www.gulliverauto.com/inventory/used-2020-tesla-model-y-long-range-5yjygdee9lf054106-in-plano-tx",
       "source": "MarketCheck"
     },
     {
@@ -14139,6 +14085,24 @@
       "source": "TrueCar"
     },
     {
+      "vin": "5YJ3E1EB7NF269362",
+      "year": 2022,
+      "model": "Model 3",
+      "trim": "Long Range",
+      "price": 28200.0,
+      "mileage": 78380.0,
+      "dealer": "Tesla",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 18,
+      "title_status": "Clean",
+      "url": "http://www.tesla.com/m3/order/5YJ3E1EB7NF269362",
+      "source": "MarketCheck"
+    },
+    {
       "vin": "5YJ3E1EC9NF159048",
       "year": 2022,
       "model": "Model 3",
@@ -14425,6 +14389,24 @@
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EC4MF084208/2021-tesla-model-3/",
       "source": "TrueCar"
+    },
+    {
+      "vin": "5YJ3E1EB9NF242924",
+      "year": 2022,
+      "model": "Model 3",
+      "trim": "Long Range",
+      "price": 28200.0,
+      "mileage": 94624.0,
+      "dealer": "Tesla",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 16,
+      "title_status": "Clean",
+      "url": "http://www.tesla.com/m3/order/5YJ3E1EB9NF242924",
+      "source": "MarketCheck"
     },
     {
       "vin": "5YJ3E1EA9MF020650",
@@ -14893,6 +14875,24 @@
       "title_status": "Clean",
       "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-3-performance-5yj3e1ec7pf428683-in-irving-plano-tx",
       "source": "Autos of Dallas"
+    },
+    {
+      "vin": "5YJ3E1EA6PF638836",
+      "year": 2023,
+      "model": "Model 3",
+      "trim": "Base",
+      "price": 29590.0,
+      "mileage": 16608.0,
+      "dealer": "Carvana Blue Mound",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 14,
+      "title_status": "Clean",
+      "url": "https://www.carvana.com/vehicle/4734129",
+      "source": "MarketCheck"
     },
     {
       "vin": "5YJ3E1EC1PF477765",
