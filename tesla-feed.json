@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:27:24.337818+00:00",
+  "updated_at": "2026-10-22T08:27:30.794625+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 806,
   "total_hw4_under_33k": 55,
@@ -8055,6 +8055,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "7SAYGDEE4PA040345",
+      "year": 2023,
+      "model": "Model Y",
+      "trim": "Standard Range AWD",
+      "price": 32351,
+      "mileage": 51985,
+      "dealer": "Autos of Dallas - Plano - Plano, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 40,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEE4PA040345/2023-tesla-model-y/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EA8JF023003",
       "year": 2018,
       "model": "Model 3",
@@ -11149,24 +11167,6 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4807728",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "7SAYGDEE4PA040345",
-      "year": 2023,
-      "model": "Model Y",
-      "trim": "Standard Range AWD",
-      "price": 32351,
-      "mileage": 51985,
-      "dealer": "Autos of Dallas - Plano - Plano, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 30,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEE4PA040345/2023-tesla-model-y/",
-      "source": "TrueCar"
     },
     {
       "vin": "7SAYGDEE1PA119357",
