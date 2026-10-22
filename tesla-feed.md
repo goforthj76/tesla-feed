@@ -1,5 +1,5 @@
 # Used Tesla Deal Hunter - Live DFW Market Feed
-**Last Sync**: 2026-10-22T16:09:27.396990+00:00 (UTC)
+**Last Sync**: 2026-10-22T19:43:10.695016+00:00 (UTC)
 **Total Listings**: 816 | **HW4 Under $33k Deals**: 33 | **Clean Titles**: 764 | **Trash VINs Flagged**: 52
 
 ## ⭐ Priority: Verified HW4 Under $33k (Clean Title)
@@ -814,55 +814,55 @@
 
 | Year/Model | VIN | Price | Title Status | Dealer | URL |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2024 Model Y | `7SAYGDEE9RA275567` | $29,600.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/windsor-co-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee9ra275567/) |
-| 2025 Model 3 | `5YJ3E1EA6SF989240` | $31,300.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea6sf989240/) |
+| 2022 Model 3 | `5YJ3E1EA3NF322792` | $18,892.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2022-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea3nf322792/) |
+| 2019 Model 3 | `5YJ3E1EA6KF396736` | $20,400.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2019-tesla-model-3-standard-range-plus-rwd-4d-sedan-5yj3e1ea6kf396736/) |
+| 2022 Model 3 | `5YJ3E1EA5NF187749` | $20,800.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/san-antonio-bandera-tx-used-2022-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea5nf187749/) |
+| 2023 Model 3 | `5YJ3E1EA1PF428533` | $21,600.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea1pf428533/) |
+| 2023 Model 3 | `5YJ3E1EA5PF669074` | $23,100.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/san-antonio-bandera-tx-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea5pf669074/) |
+| 2023 Model 3 | `5YJ3E1EA2PF565058` | $23,800.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/windsor-co-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2pf565058/) |
+| 2023 Model 3 | `5YJ3E1EA8PF705436` | $24,092.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea8pf705436/) |
+| 2022 Model 3 | `5YJ3E1EC8NF247962` | $24,100.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/windsor-co-used-2022-tesla-model-3-performance-awd-4d-sedan-5yj3e1ec8nf247962/) |
+| 2023 Model 3 | `5YJ3E1EA1PF576696` | $24,700.0 | ⚠️ Adverse | Autosavvy Duncanville | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea1pf576696/) |
+| 2023 Model 3 | `5YJ3E1EA7PF679976` | $24,700.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea7pf679976/) |
+| 2023 Model 3 | `5YJ3E1EB6PF692615` | $26,500.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2023-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb6pf692615/) |
+| 2023 Model 3 | `5YJ3E1EB2PF650541` | $27,300.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/santa-fe-nm-used-2023-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb2pf650541/) |
+| 2023 Model 3 | `5YJ3E1EB9PF628889` | $27,700.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2023-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb9pf628889/) |
 | 2023 Model Y | `7SAYGDEE8PA211064` | $29,500.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/san-antonio-bandera-tx-used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee8pa211064/) |
+| 2024 Model Y | `7SAYGDEE9RA275567` | $29,600.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/windsor-co-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee9ra275567/) |
+| 2024 Model 3 | `5YJ3E1EA2RF869655` | $29,800.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2rf869655/) |
+| 2024 Model 3 | `5YJ3E1EA2RF746986` | $30,000.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/austin-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2rf746986/) |
+| 2023 Model Y | `7SAYGDEE1PA154822` | $30,500.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee1pa154822/) |
 | 2023 Model Y | `7SAYGDEE1PF926075` | $30,600.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/post-falls-id-used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee1pf926075/) |
+| 2023 Model Y | `7SAYGDEEXPF714873` | $30,700.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/woods-cross-ut-used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdeexpf714873/) |
 | 2024 Model Y | `7SAYGDEE5RA227595` | $30,800.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/colorado-springs-co-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee5ra227595/) |
+| 2024 Model 3 | `5YJ3E1EA1RF863846` | $30,900.0 | ⚠️ Adverse | Autosavvy Fort Worth | [View Listing](https://www.autosavvy.com/inventory/fort-worth-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea1rf863846/) |
+| 2025 Model 3 | `5YJ3E1EA7SF987299` | $31,200.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/reno-nv-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea7sf987299/) |
+| 2024 Model Y | `7SAYGDEE0RF002455` | $31,300.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/draper-ut-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0rf002455/) |
+| 2025 Model 3 | `5YJ3E1EA6SF989240` | $31,300.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea6sf989240/) |
+| 2024 Model Y | `7SAYGDEDXRF157327` | $31,392.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2024-tesla-model-y-long-range-rwd-4d-sport-utility-7saygdedxrf157327/) |
 | 2025 Model Y | `7SAYGDEE0SF267799` | $31,700.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/lindon-ut-used-2025-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0sf267799/) |
+| 2024 Model Y | `7SAYGDEDXRF208504` | $31,700.0 | ⚠️ Adverse | Autosavvy Duncanville | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-rwd-4d-sport-utility-7saygdedxrf208504/) |
 | 2025 Model 3 | `5YJ3E1EA3SF035643` | $31,700.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/clearwater-fl-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea3sf035643/) |
+| 2025 Model 3 | `5YJ3E1EA9SF910224` | $31,900.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea9sf910224/) |
 | 2025 Model Y | `7SAYGDED4SF249216` | $32,000.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded4sf249216/) |
 | 2025 Model 3 | `5YJ3E1EA6SF043350` | $32,000.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea6sf043350/) |
-| 2023 Model Y | `7SAYGDEE1PA154822` | $30,500.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee1pa154822/) |
-| 2024 Model Y | `7SAYGDEDXRF157327` | $31,392.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2024-tesla-model-y-long-range-rwd-4d-sport-utility-7saygdedxrf157327/) |
-| 2025 Model 3 | `5YJ3E1EA9SF910224` | $31,900.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea9sf910224/) |
-| 2024 Model 3 | `5YJ3E1EA2RF869655` | $29,800.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2rf869655/) |
-| 2024 Model 3 | `5YJ3E1EA1RF863846` | $30,900.0 | ⚠️ Adverse | Autosavvy Fort Worth | [View Listing](https://www.autosavvy.com/inventory/fort-worth-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea1rf863846/) |
-| 2025 Model Y | `7SAYGDED7SF226674` | $32,100.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded7sf226674/) |
-| 2025 Model 3 | `5YJ3E1EA7SF987299` | $31,200.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/reno-nv-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea7sf987299/) |
-| 2024 Model Y | `7SAYGDEDXRF208504` | $31,700.0 | ⚠️ Adverse | Autosavvy Duncanville | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-rwd-4d-sport-utility-7saygdedxrf208504/) |
-| 2024 Model Y | `7SAYGDEE0RF002455` | $31,300.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/draper-ut-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee0rf002455/) |
-| 2024 Model Y | `7SAYGDEE2RF057893` | $32,100.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/las-vegas-nv-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee2rf057893/) |
 | 2024 Model Y | `7SAYGDEEXRA324999` | $32,000.0 | ⚠️ Adverse | Autosavvy Duncanville | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdeexra324999/) |
-| 2024 Model 3 | `5YJ3E1EA2RF746986` | $30,000.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/austin-tx-used-2024-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2rf746986/) |
 | 2025 Model 3 | `5YJ3E1EA1SF043577` | $32,000.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea1sf043577/) |
+| 2024 Model Y | `7SAYGDEE2RF057893` | $32,100.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/las-vegas-nv-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee2rf057893/) |
+| 2025 Model Y | `7SAYGDED7SF226674` | $32,100.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded7sf226674/) |
 | 2025 Model 3 | `5YJ3E1EA5SF978293` | $32,192.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea5sf978293/) |
-| 2025 Model 3 | `5YJ3E1EA6SF063596` | $32,400.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea6sf063596/) |
-| 2025 Model 3 | `5YJ3E1EAXSF069594` | $32,692.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1eaxsf069594/) |
-| 2025 Model 3 | `5YJ3E1EA0SF968111` | $33,017 | ⚠️ Adverse | AutoSavvy Fort Worth - Fort Worth, TX | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA0SF968111/2025-tesla-model-3/) |
 | 2025 Model 3 | `5YJ3E1EA2SF082792` | $32,192.0 | ⚠️ Adverse | Autosavvy Duncanville | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea2sf082792/) |
-| 2025 Model 3 | `5YJ3E1EA5SF999564` | $32,400.0 | ⚠️ Adverse | Autosavvy Duncanville | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea5sf999564/) |
-| 2025 Model Y | `7SAYGDED2SF235041` | $33,392.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded2sf235041/) |
 | 2024 Model Y | `7SAYGDEE3RA289495` | $32,200.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygdee3ra289495/) |
 | 2024 Model Y | `7SAYGAEE1RF048102` | $32,300.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/woods-cross-ut-used-2024-tesla-model-y-long-range-awd-4d-sport-utility-7saygaee1rf048102/) |
+| 2025 Model 3 | `5YJ3E1EA6SF063596` | $32,400.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea6sf063596/) |
+| 2025 Model 3 | `5YJ3E1EA5SF999564` | $32,400.0 | ⚠️ Adverse | Autosavvy Duncanville | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea5sf999564/) |
+| 2025 Model 3 | `5YJ3E1EAXSF069594` | $32,692.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1eaxsf069594/) |
+| 2025 Model 3 | `5YJ3E1EA0SF968111` | $33,017 | ⚠️ Adverse | AutoSavvy Fort Worth - Fort Worth, TX | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA0SF968111/2025-tesla-model-3/) |
 | 2025 Model 3 | `5YJ3E1EA0SF968111` | $33,092.0 | ⚠️ Adverse | Autosavvy Fort Worth | [View Listing](https://www.autosavvy.com/inventory/fort-worth-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea0sf968111/) |
 | 2025 Model 3 | `5YJ3E1EAXSF002493` | $33,092.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/san-antonio-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1eaxsf002493/) |
 | 2025 Model 3 | `5YJ3E1EA8SF979972` | $33,100.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea8sf979972/) |
 | 2025 Model 3 | `5YJ3E1EA3SF060106` | $33,300.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/san-antonio-bandera-tx-used-2025-tesla-model-3-long-range-rwd-4d-sedan-5yj3e1ea3sf060106/) |
+| 2024 Model Y | `7SAYGDED3RF202429` | $33,392.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2024-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded3rf202429/) |
+| 2025 Model Y | `7SAYGDED2SF235041` | $33,392.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded2sf235041/) |
 | 2025 Model 3 | `5YJ3E1EB8SF953820` | $33,600.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/woods-cross-ut-used-2025-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb8sf953820/) |
 | 2025 Model Y | `7SAYGDED0SF307399` | $33,900.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2025-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded0sf307399/) |
-| 2019 Model 3 | `5YJ3E1EA6KF396736` | $20,400.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2019-tesla-model-3-standard-range-plus-rwd-4d-sedan-5yj3e1ea6kf396736/) |
-| 2023 Model 3 | `5YJ3E1EA1PF428533` | $21,600.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/houston-tx-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea1pf428533/) |
-| 2024 Model Y | `7SAYGDED3RF202429` | $33,392.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/south-houston-tx-used-2024-tesla-model-y-long-range-rwd-4d-sport-utility-7saygded3rf202429/) |
-| 2023 Model 3 | `5YJ3E1EA5PF669074` | $23,100.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/san-antonio-bandera-tx-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea5pf669074/) |
-| 2023 Model 3 | `5YJ3E1EA2PF565058` | $23,800.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/windsor-co-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea2pf565058/) |
-| 2022 Model 3 | `5YJ3E1EA3NF322792` | $18,892.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2022-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea3nf322792/) |
-| 2022 Model 3 | `5YJ3E1EA5NF187749` | $20,800.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/san-antonio-bandera-tx-used-2022-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea5nf187749/) |
-| 2023 Model 3 | `5YJ3E1EA7PF679976` | $24,700.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea7pf679976/) |
-| 2023 Model 3 | `5YJ3E1EB6PF692615` | $26,500.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2023-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb6pf692615/) |
-| 2023 Model 3 | `5YJ3E1EA8PF705436` | $24,092.0 | ⚠️ Adverse | Autosavvy Richardson | [View Listing](https://www.autosavvy.com/inventory/richardson-tx-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea8pf705436/) |
-| 2023 Model 3 | `5YJ3E1EA1PF576696` | $24,700.0 | ⚠️ Adverse | Autosavvy Duncanville | [View Listing](https://www.autosavvy.com/inventory/duncanville-tx-used-2023-tesla-model-3-base-rwd-4d-sedan-5yj3e1ea1pf576696/) |
-| 2022 Model 3 | `5YJ3E1EC8NF247962` | $24,100.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/windsor-co-used-2022-tesla-model-3-performance-awd-4d-sedan-5yj3e1ec8nf247962/) |
-| 2023 Model 3 | `5YJ3E1EB2PF650541` | $27,300.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/santa-fe-nm-used-2023-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb2pf650541/) |
-| 2023 Model 3 | `5YJ3E1EB9PF628889` | $27,700.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/albuquerque-nm-used-2023-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb9pf628889/) |
-| 2023 Model Y | `7SAYGDEEXPF714873` | $30,700.0 | ⚠️ Adverse | Autosavvy | [View Listing](https://www.autosavvy.com/inventory/woods-cross-ut-used-2023-tesla-model-y-long-range-awd-4d-sport-utility-7saygdeexpf714873/) |
