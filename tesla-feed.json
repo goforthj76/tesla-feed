@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:24:57.934851+00:00",
+  "updated_at": "2026-10-22T12:25:03.321170+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 806,
   "total_hw4_under_33k": 62,
@@ -13455,6 +13455,24 @@
       "source": "TrueCar"
     },
     {
+      "vin": "7SAYGDEE4PA040345",
+      "year": 2023,
+      "model": "Model Y",
+      "trim": "Long Range",
+      "price": 35147.0,
+      "mileage": 51985.0,
+      "dealer": "Autos of Dallas - Plano",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": false,
+      "deal_score": 24,
+      "title_status": "Clean",
+      "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee4pa040345-in-irving-plano-tx",
+      "source": "Autos of Dallas"
+    },
+    {
       "vin": "5YJXCBE40MF324036",
       "year": 2021,
       "model": "Model X",
@@ -14983,24 +15001,6 @@
       "title_status": "Clean",
       "url": "https://www.toyotaofrichardson.com/used/Tesla/2022-Tesla-Model-Y-423479afac1822fe7566488f97824741.htm",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "7SAYGDEE4PA040345",
-      "year": 2023,
-      "model": "Model Y",
-      "trim": "Long Range",
-      "price": 35147.0,
-      "mileage": 51985.0,
-      "dealer": "Autos of Dallas - Plano",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 16,
-      "title_status": "Clean",
-      "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee4pa040345-in-irving-plano-tx",
-      "source": "Autos of Dallas"
     },
     {
       "vin": "7SAYGDEE6PA107463",
