@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:31:03.363780+00:00",
+  "updated_at": "2026-10-22T10:43:50.765448+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 818,
   "total_hw4_under_33k": 62,
@@ -4059,24 +4059,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJ3E1EA8PF459469",
-      "year": 2023,
-      "model": "Model 3",
-      "trim": "RWD",
-      "price": 24550,
-      "mileage": 43823,
-      "dealer": "Auto Merchants Inc - Plano, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 54,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA8PF459469/2023-tesla-model-3/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "7SAYGDED4TA496962",
       "year": 2026,
       "model": "Model Y",
@@ -5533,6 +5515,24 @@
       "title_status": "Clean",
       "url": "https://www.automerchants.com/vehicle-details/used-2023-tesla-model-3-rear-wheel-drive-plano-tx-id-65674097",
       "source": "MarketCheck"
+    },
+    {
+      "vin": "5YJ3E1EA8PF459469",
+      "year": 2023,
+      "model": "Model 3",
+      "trim": "RWD",
+      "price": 24550,
+      "mileage": 43823,
+      "dealer": "Auto Merchants Inc - Plano, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 48,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA8PF459469/2023-tesla-model-3/",
+      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EA2PF435488",
@@ -7191,24 +7191,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJ3E1EA3PF608175",
-      "year": 2023,
-      "model": "Model 3",
-      "trim": "RWD",
-      "price": 24485,
-      "mileage": 104948,
-      "dealer": "TrueCar Certified Dealer",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 43,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA3PF608175/2023-tesla-model-3/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJ3E1EA0MF850806",
       "year": 2021,
       "model": "Model 3",
@@ -8217,6 +8199,24 @@
       "source": "TrueCar"
     },
     {
+      "vin": "5YJYGDEE0MF146223",
+      "year": 2021,
+      "model": "Model Y",
+      "trim": "Long Range AWD",
+      "price": 27708,
+      "mileage": 68243,
+      "dealer": "TrueCar Certified Dealer",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 41,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE0MF146223/2021-tesla-model-y/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJSA1H25EFP66333",
       "year": 2014,
       "model": "Model S",
@@ -9187,6 +9187,24 @@
       "title_status": "Clean",
       "url": "https://www.planetcarz.com/inventory/tesla/model-3/4113/",
       "source": "MarketCheck"
+    },
+    {
+      "vin": "5YJ3E1EA3PF608175",
+      "year": 2023,
+      "model": "Model 3",
+      "trim": "RWD",
+      "price": 24485,
+      "mileage": 104948,
+      "dealer": "TrueCar Certified Dealer",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 37,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA3PF608175/2023-tesla-model-3/",
+      "source": "TrueCar"
     },
     {
       "vin": "5YJYGAEE6MF269524",
@@ -11113,24 +11131,6 @@
       "title_status": "Clean",
       "url": "http://www.tesla.com/m3/order/5YJ3E1EB9MF069257",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "5YJYGDEE0MF146223",
-      "year": 2021,
-      "model": "Model Y",
-      "trim": "Long Range AWD",
-      "price": 27708,
-      "mileage": 68243,
-      "dealer": "TrueCar Certified Dealer",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 31,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE0MF146223/2021-tesla-model-y/",
-      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EB4PF689681",
@@ -14751,24 +14751,6 @@
       "source": "Carvana"
     },
     {
-      "vin": "7SAXCBE62NF350773",
-      "year": 2022,
-      "model": "Model X",
-      "trim": "Plaid",
-      "price": 58803,
-      "mileage": 33763,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 18,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE62NF350773/2022-tesla-model-x/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJ3E1EB8JF187036",
       "year": 2018,
       "model": "Model 3",
@@ -15595,6 +15577,24 @@
       "title_status": "Clean",
       "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee6pa107463-in-irving-plano-tx",
       "source": "Autos of Dallas"
+    },
+    {
+      "vin": "7SAXCBE62NF350773",
+      "year": 2022,
+      "model": "Model X",
+      "trim": "Plaid",
+      "price": 58803,
+      "mileage": 33763,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": false,
+      "deal_score": 10,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE62NF350773/2022-tesla-model-x/",
+      "source": "TrueCar"
     },
     {
       "vin": "5YJXCDE24LF306745",
