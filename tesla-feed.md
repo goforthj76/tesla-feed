@@ -1,5 +1,5 @@
 # Used Tesla Deal Hunter - Live DFW Market Feed
-**Last Sync**: 2026-10-22T19:44:04.967666+00:00 (UTC)
+**Last Sync**: 2026-10-22T19:44:13.953036+00:00 (UTC)
 **Total Listings**: 858 | **HW4 Under $33k Deals**: 17 | **Clean Titles**: 506 | **Trash VINs Flagged**: 352
 
 ## ⭐ Priority: Verified HW4 Under $33k (Clean Title)
