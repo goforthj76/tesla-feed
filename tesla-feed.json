@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-22T12:55:15.819466+00:00",
+  "updated_at": "2026-10-22T13:00:17.700166+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
-  "total_listings": 814,
+  "total_listings": 815,
   "total_hw4_under_33k": 62,
-  "total_clean_listings": 814,
+  "total_clean_listings": 815,
   "total_trash_vins": 0,
   "priority_hw4_under_33k": [
     {
@@ -2529,6 +2529,24 @@
       "source": "TrueCar"
     },
     {
+      "vin": "5YJ3E1EA0SF968111",
+      "year": 2025,
+      "model": "Model 3",
+      "trim": "Long Range RWD",
+      "price": 33017,
+      "mileage": 1384,
+      "dealer": "AutoSavvy Fort Worth - Fort Worth, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 CONFIRMED (2024+)",
+      "under_33k": false,
+      "deal_score": 72,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA0SF968111/2025-tesla-model-3/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "7SAYGDED1TA595061",
       "year": 2026,
       "model": "Model Y",
@@ -2742,24 +2760,6 @@
       "deal_score": 68,
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/7G2CEHEE1RA000129/2024-tesla-cybertruck/",
-      "source": "TrueCar"
-    },
-    {
-      "vin": "5YJ3E1EA0SF968111",
-      "year": 2025,
-      "model": "Model 3",
-      "trim": "Long Range RWD",
-      "price": 33017,
-      "mileage": 1384,
-      "dealer": "AutoSavvy Fort Worth - Fort Worth, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 CONFIRMED (2024+)",
-      "under_33k": false,
-      "deal_score": 66,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA0SF968111/2025-tesla-model-3/",
       "source": "TrueCar"
     },
     {
@@ -3933,24 +3933,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJSA1E53RF533832",
-      "year": 2024,
-      "model": "Model S",
-      "trim": "Long Range",
-      "price": 74803,
-      "mileage": 9425,
-      "dealer": "Kian Motors - Plano, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 CONFIRMED (2024+)",
-      "under_33k": false,
-      "deal_score": 56,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E53RF533832/2024-tesla-model-s/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJSA1E5XRF537571",
       "year": 2024,
       "model": "Model S",
@@ -3966,6 +3948,24 @@
       "deal_score": 56,
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E5XRF537571/2024-tesla-model-s/",
+      "source": "TrueCar"
+    },
+    {
+      "vin": "5YJSA1E53RF533832",
+      "year": 2024,
+      "model": "Model S",
+      "trim": "Long Range",
+      "price": 78803,
+      "mileage": 9425,
+      "dealer": "Kian Motors - Plano, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 CONFIRMED (2024+)",
+      "under_33k": false,
+      "deal_score": 56,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E53RF533832/2024-tesla-model-s/",
       "source": "TrueCar"
     },
     {
@@ -4563,24 +4563,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJ3E1EA7NF314372",
-      "year": 2022,
-      "model": "Model 3",
-      "trim": "Standard Range Plus RWD",
-      "price": 21988,
-      "mileage": 79392,
-      "dealer": "Prosper Ford - Prosper, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 52,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA7NF314372/2022-tesla-model-3/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJ3E1EA8KF428814",
       "year": 2019,
       "model": "Model 3",
@@ -5049,6 +5031,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJ3E1EA8KF426464",
+      "year": 2019,
+      "model": "Model 3",
+      "trim": "Standard Range RWD",
+      "price": 22989,
+      "mileage": 44873,
+      "dealer": "Car Place Dallas - Addison, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 49,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA8KF426464/2019-tesla-model-3/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EA4MF961200",
       "year": 2021,
       "model": "Model 3",
@@ -5337,24 +5337,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJXCBE20JF139575",
-      "year": 2018,
-      "model": "Model X",
-      "trim": "75D",
-      "price": 22081,
-      "mileage": 97170,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 48,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJXCBE20JF139575/2018-tesla-model-x/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJ3E1EA9NF185762",
       "year": 2022,
       "model": "Model 3",
@@ -5625,6 +5607,24 @@
       "source": "TrueCar"
     },
     {
+      "vin": "5YJ3E1ET1SF066052",
+      "year": 2025,
+      "model": "Model 3",
+      "trim": "Performance AWD",
+      "price": 53998,
+      "mileage": 3939,
+      "dealer": "CarMax Texas Stadium (Irving) - Irving, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 CONFIRMED (2024+)",
+      "under_33k": false,
+      "deal_score": 48,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1ET1SF066052/2025-tesla-model-3/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1ET9SF971316",
       "year": 2025,
       "model": "Model 3",
@@ -5641,6 +5641,24 @@
       "title_status": "Clean",
       "url": "https://www.autohubtexas.com/product-page/2025-tesla-model-3-performance-w-fsd",
       "source": "Autohub Texas"
+    },
+    {
+      "vin": "5YJSA1E56PF519419",
+      "year": 2023,
+      "model": "Model S",
+      "trim": "Standard Range",
+      "price": 64803,
+      "mileage": 13244,
+      "dealer": "Kian Motors - Plano, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 INFERRED (2023 S/X)",
+      "under_33k": false,
+      "deal_score": 48,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E56PF519419/2023-tesla-model-s/",
+      "source": "TrueCar"
     },
     {
       "vin": "7SAXCBE69PF372854",
@@ -5892,24 +5910,6 @@
       "deal_score": 47,
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE6MF187696/2021-tesla-model-y/",
-      "source": "TrueCar"
-    },
-    {
-      "vin": "5YJ3E1EA4JF102944",
-      "year": 2018,
-      "model": "Model 3",
-      "trim": "Long Range RWD",
-      "price": 16495,
-      "mileage": 125006,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 46,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA4JF102944/2018-tesla-model-3/",
       "source": "TrueCar"
     },
     {
@@ -6199,6 +6199,24 @@
       "title_status": "Clean",
       "url": "https://www.mydreamcargarage.com/inventory/tesla/model-3/sp706377/",
       "source": "MarketCheck"
+    },
+    {
+      "vin": "5YJ3E1EB4LF712015",
+      "year": 2020,
+      "model": "Model 3",
+      "trim": "Long Range Dual Motor",
+      "price": 21145,
+      "mileage": 113479,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 46,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EB4LF712015/2020-tesla-model-3/",
+      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EA4KF418927",
@@ -6507,24 +6525,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJSA1E66PF511085",
-      "year": 2023,
-      "model": "Model S",
-      "trim": "Plaid",
-      "price": 79303,
-      "mileage": 27292,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": true,
-      "hw4_tag": "HW4 INFERRED (2023 S/X)",
-      "under_33k": false,
-      "deal_score": 46,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E66PF511085/2023-tesla-model-s/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJ3E1EA1MF087033",
       "year": 2021,
       "model": "Model 3",
@@ -6757,24 +6757,6 @@
       "title_status": "Clean",
       "url": "https://classiccarsales.net/vehicles/12637179-2018-Tesla-Model%203/",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "5YJ3E1EA3JF019084",
-      "year": 2018,
-      "model": "Model 3",
-      "trim": "Mid Range RWD",
-      "price": 18217,
-      "mileage": 103408,
-      "dealer": "Cavender Nissan of Rockwall - Rockwall, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 44,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA3JF019084/2018-tesla-model-3/",
-      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EA2KF309057",
@@ -7116,24 +7098,6 @@
       "deal_score": 44,
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE52PF378793/2023-tesla-model-x/",
-      "source": "TrueCar"
-    },
-    {
-      "vin": "5YJ3E1EA6KF396736",
-      "year": 2019,
-      "model": "Model 3",
-      "trim": "Standard Range Plus RWD",
-      "price": 22199,
-      "mileage": 44116,
-      "dealer": "TrueCar Certified Dealer",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 43,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA6KF396736/2019-tesla-model-3/",
       "source": "TrueCar"
     },
     {
@@ -8289,6 +8253,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJ3E1EA4JF102944",
+      "year": 2018,
+      "model": "Model 3",
+      "trim": "Long Range RWD",
+      "price": 16495,
+      "mileage": 125006,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 40,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA4JF102944/2018-tesla-model-3/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EAXJF071053",
       "year": 2018,
       "model": "Model 3",
@@ -8433,6 +8415,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJXCDE22JF115919",
+      "year": 2018,
+      "model": "Model X",
+      "trim": "75D",
+      "price": 26816,
+      "mileage": 84027,
+      "dealer": "Certified Autoplex - Dallas, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 40,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJXCDE22JF115919/2018-tesla-model-x/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJYGDEE1MF202461",
       "year": 2021,
       "model": "Model Y",
@@ -8559,6 +8559,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJSA1E66PF511085",
+      "year": 2023,
+      "model": "Model S",
+      "trim": "Plaid",
+      "price": 79303,
+      "mileage": 27292,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": true,
+      "hw4_tag": "HW4 INFERRED (2023 S/X)",
+      "under_33k": false,
+      "deal_score": 40,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E66PF511085/2023-tesla-model-s/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EA8JF023003",
       "year": 2018,
       "model": "Model 3",
@@ -8575,24 +8593,6 @@
       "title_status": "Clean",
       "url": "https://www.idrive1.net/used/Tesla/2018-Tesla-Model-3-f8d28965ac185554d25bbe289205a4d9.htm",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "5YJ3E1EA8KF426464",
-      "year": 2019,
-      "model": "Model 3",
-      "trim": "Standard Range RWD",
-      "price": 22989,
-      "mileage": 44873,
-      "dealer": "Car Place Dallas - Addison, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 39,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA8KF426464/2019-tesla-model-3/",
-      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EA8KF426464",
@@ -8808,6 +8808,24 @@
       "deal_score": 38,
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1CPXDFP07103/2013-tesla-model-s/",
+      "source": "TrueCar"
+    },
+    {
+      "vin": "5YJ3E1EA3JF019084",
+      "year": 2018,
+      "model": "Model 3",
+      "trim": "Mid Range RWD",
+      "price": 18217,
+      "mileage": 103408,
+      "dealer": "Cavender Nissan of Rockwall - Rockwall, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 38,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA3JF019084/2018-tesla-model-3/",
       "source": "TrueCar"
     },
     {
@@ -9747,6 +9765,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "7SAYGAEE6PF700581",
+      "year": 2023,
+      "model": "Model Y",
+      "trim": "Long Range AWD",
+      "price": 30803,
+      "mileage": 78734,
+      "dealer": "Kian Motors - Plano, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 36,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGAEE6PF700581/2023-tesla-model-y/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "7SAYGDEE3PF739615",
       "year": 2023,
       "model": "Model Y",
@@ -9769,7 +9805,7 @@
       "year": 2021,
       "model": "Model S",
       "trim": "Long Range",
-      "price": 40715,
+      "price": 40215,
       "mileage": 75221,
       "dealer": "Premium Audio",
       "city": "",
@@ -11295,24 +11331,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJXCDE22JF115919",
-      "year": 2018,
-      "model": "Model X",
-      "trim": "75D",
-      "price": 26816,
-      "mileage": 84027,
-      "dealer": "Certified Autoplex - Dallas, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 30,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJXCDE22JF115919/2018-tesla-model-x/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJXCBE41GF016457",
       "year": 2016,
       "model": "Model X",
@@ -12699,6 +12717,24 @@
       "source": "Carvana"
     },
     {
+      "vin": "5YJ3E1EA6PF431962",
+      "year": 2023,
+      "model": "Model 3",
+      "trim": "RWD",
+      "price": 28998,
+      "mileage": 62115,
+      "dealer": "CarMax Texas Stadium (Irving) - Irving, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 26,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA6PF431962/2023-tesla-model-3/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EC9PF551255",
       "year": 2023,
       "model": "Model 3",
@@ -13219,6 +13255,24 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4818031",
       "source": "Carvana"
+    },
+    {
+      "vin": "5YJYGDEE0MF088307",
+      "year": 2021,
+      "model": "Model Y",
+      "trim": "Long Range AWD",
+      "price": 27998,
+      "mileage": 74963,
+      "dealer": "CarMax Fresno - Fresno, CA",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 24,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE0MF088307/2021-tesla-model-y/",
+      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EA6PF657306",
@@ -14589,6 +14643,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJYGDEFXMF072995",
+      "year": 2021,
+      "model": "Model Y",
+      "trim": "Performance AWD",
+      "price": 29998,
+      "mileage": 74621,
+      "dealer": "CarMax Bradenton - Bradenton, FL",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 18,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEFXMF072995/2021-tesla-model-y/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJYGDEE4MF078718",
       "year": 2021,
       "model": "Model Y",
@@ -14785,24 +14857,6 @@
       "title_status": "Clean",
       "url": "https://www.bishopmaserati.com/inventory/used-2018-tesla-model-3-long-range-awd-4d-sedan-5yj3e1eb8jf187036/",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "5YJ3E1EC4MF084208",
-      "year": 2021,
-      "model": "Model 3",
-      "trim": "Performance Dual Motor AWD",
-      "price": 27998,
-      "mileage": 73357,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 16,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EC4MF084208/2021-tesla-model-3/",
-      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EA0LF718160",
@@ -15219,24 +15273,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJ3E1EC1LF602659",
-      "year": 2020,
-      "model": "Model 3",
-      "trim": "Performance Dual Motor AWD",
-      "price": 26998,
-      "mileage": 83022,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 13,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EC1LF602659/2020-tesla-model-3/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJYGDEEXMF265770",
       "year": 2021,
       "model": "Model Y",
@@ -15325,24 +15361,6 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4842817",
       "source": "Carvana"
-    },
-    {
-      "vin": "7SAYGDEE7PA088082",
-      "year": 2023,
-      "model": "Model Y",
-      "trim": "Long Range AWD",
-      "price": 35998,
-      "mileage": 42189,
-      "dealer": "CarMax Texas Stadium (Irving) - Irving, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 12,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEE7PA088082/2023-tesla-model-y/",
-      "source": "TrueCar"
     },
     {
       "vin": "5YJXCDE25MF311552",
