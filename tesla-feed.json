@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T13:01:35.342253+00:00",
+  "updated_at": "2026-10-22T13:15:28.169899+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 815,
   "total_hw4_under_33k": 62,
@@ -11835,24 +11835,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJSA1E47MF425682",
-      "year": 2021,
-      "model": "Model S",
-      "trim": "Performance",
-      "price": 47345,
-      "mileage": 42207,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 30,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E47MF425682/2021-tesla-model-s/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "7SAXCBE55NF358342",
       "year": 2022,
       "model": "Model X",
@@ -14424,6 +14406,24 @@
       "deal_score": 20,
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEF9PF739756/2023-tesla-model-y/",
+      "source": "TrueCar"
+    },
+    {
+      "vin": "5YJSA1E47MF425682",
+      "year": 2021,
+      "model": "Model S",
+      "trim": "Performance",
+      "price": 47345,
+      "mileage": 42207,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": false,
+      "deal_score": 20,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E47MF425682/2021-tesla-model-s/",
       "source": "TrueCar"
     },
     {

@@ -1,5 +1,5 @@
 # Used Tesla Deal Hunter - Live DFW Market Feed
-**Last Sync**: 2026-10-22T13:01:35.342253+00:00 (UTC)
+**Last Sync**: 2026-10-22T13:15:28.169899+00:00 (UTC)
 **Total Listings**: 815 | **HW4 Under $33k Deals**: 62 | **Clean Titles**: 815 | **Trash VINs Flagged**: 0
 
 ## ⭐ Priority: Verified HW4 Under $33k (Clean Title)
@@ -668,7 +668,6 @@
 | 2021 Model S | Long Range Plus | $39,303 | 64,941 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E2XMF426923/2021-tesla-model-s/) |
 | 2022 Model S | Long Range | $42,715 | 43,519 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E56NF463060/2022-tesla-model-s/) |
 | 2022 Model S | Long Range | $45,216 | 55,925 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E58NF488042/2022-tesla-model-s/) |
-| 2021 Model S | Performance | $47,345 | 42,207 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E47MF425682/2021-tesla-model-s/) |
 | 2022 Model X | AWD | $49,715 | 40,540 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE55NF358342/2022-tesla-model-x/) |
 | 2022 Model X | Plaid | $51,803 | 58,426 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE68NF353998/2022-tesla-model-x/) |
 | 2022 Model X | AWD | $51,803 | 47,401 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE5XNF357008/2022-tesla-model-x/) |
@@ -812,6 +811,7 @@
 | 2019 Model X | Long Range | $33,990.0 | 74,361.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4833495) |
 | 2023 Model Y |  | $34,590.0 | 50,765.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4796558) |
 | 2023 Model Y | Performance AWD | $34,715 | 46,002 mi | HW3 | Kian Motors - Plano, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEF9PF739756/2023-tesla-model-y/) |
+| 2021 Model S | Performance | $47,345 | 42,207 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E47MF425682/2021-tesla-model-s/) |
 | 2021 Model S | Plaid | $49,955 | 49,177 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJSA1E6XMF441232/2021-tesla-model-s/) |
 | 2022 Model X | Plaid | $55,803 | 47,911 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE67NF345911/2022-tesla-model-x/) |
 | 2021 Model 3 | Base | $28,900.0 | 61,449.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/m3/order/5YJ3E1EB6MF019920) |
