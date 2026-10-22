@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T11:01:11.020267+00:00",
+  "updated_at": "2026-10-22T11:14:13.631953+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 789,
   "total_hw4_under_33k": 62,
@@ -7155,6 +7155,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJ3E1EA3PF608175",
+      "year": 2023,
+      "model": "Model 3",
+      "trim": "RWD",
+      "price": 24485,
+      "mileage": 104948,
+      "dealer": "TrueCar Certified Dealer",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 43,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA3PF608175/2023-tesla-model-3/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EA3PF474011",
       "year": 2023,
       "model": "Model 3",
@@ -8953,24 +8971,6 @@
       "title_status": "Clean",
       "url": "https://www.planetcarz.com/inventory/tesla/model-3/4113/",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "5YJ3E1EA3PF608175",
-      "year": 2023,
-      "model": "Model 3",
-      "trim": "RWD",
-      "price": 24485,
-      "mileage": 104948,
-      "dealer": "TrueCar Certified Dealer",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 37,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA3PF608175/2023-tesla-model-3/",
-      "source": "TrueCar"
     },
     {
       "vin": "5YJYGDEE0LF008549",
@@ -14427,6 +14427,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "7SAXCBE62NF350773",
+      "year": 2022,
+      "model": "Model X",
+      "trim": "Plaid",
+      "price": 58803,
+      "mileage": 33763,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": false,
+      "deal_score": 18,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE62NF350773/2022-tesla-model-x/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EB8JF187036",
       "year": 2018,
       "model": "Model 3",
@@ -15073,24 +15091,6 @@
       "title_status": "Clean",
       "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee6pa107463-in-irving-plano-tx",
       "source": "Autos of Dallas"
-    },
-    {
-      "vin": "7SAXCBE62NF350773",
-      "year": 2022,
-      "model": "Model X",
-      "trim": "Plaid",
-      "price": 58803,
-      "mileage": 33763,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 10,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE62NF350773/2022-tesla-model-x/",
-      "source": "TrueCar"
     },
     {
       "vin": "7SAYGDEE3NA006913",
