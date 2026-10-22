@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:44:04.509655+00:00",
+  "updated_at": "2026-10-22T19:44:04.967666+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 858,
   "total_hw4_under_33k": 17,
@@ -2155,7 +2155,7 @@
       "year": 2025,
       "model": "Model 3",
       "trim": "Long Range",
-      "price": 41499.0,
+      "price": 40701.0,
       "mileage": 19889.0,
       "dealer": "Autos of Dallas - Plano",
       "city": "",
@@ -3609,6 +3609,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJ3E1EA9NF185762",
+      "year": 2022,
+      "model": "Model 3",
+      "trim": "Base",
+      "price": 23710.0,
+      "mileage": 95536.0,
+      "dealer": "Autos of Dallas - Plano",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 42,
+      "title_status": "Clean",
+      "url": "https://www.autosofdallas.com/inventory/used-2022-tesla-model-3-base-5yj3e1ea9nf185762-in-irving-plano-tx",
+      "source": "Autos of Dallas"
+    },
+    {
       "vin": "5YJ3E1EA8NF354069",
       "year": 2022,
       "model": "Model 3",
@@ -3823,24 +3841,6 @@
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA8KF428814/2019-tesla-model-3/",
       "source": "TrueCar"
-    },
-    {
-      "vin": "5YJ3E1EA9NF185762",
-      "year": 2022,
-      "model": "Model 3",
-      "trim": "Base",
-      "price": 24508.0,
-      "mileage": 95536.0,
-      "dealer": "Autos of Dallas - Plano",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 41,
-      "title_status": "Clean",
-      "url": "https://www.autosofdallas.com/inventory/used-2022-tesla-model-3-base-5yj3e1ea9nf185762-in-irving-plano-tx",
-      "source": "Autos of Dallas"
     },
     {
       "vin": "5YJXCDE26HF050129",
@@ -5299,6 +5299,24 @@
       "title_status": "Clean",
       "url": "https://www.donherringirving.com/used-Irving-2022-Tesla-Model+3-Long+Range-5YJ3E1EB8NF355439",
       "source": "MarketCheck"
+    },
+    {
+      "vin": "5YJ3E1EB0LF711928",
+      "year": 2020,
+      "model": "Model 3",
+      "trim": "Long Range",
+      "price": 25613.0,
+      "mileage": 63608.0,
+      "dealer": "Autos of Dallas - Plano",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 34,
+      "title_status": "Clean",
+      "url": "https://www.autosofdallas.com/inventory/used-2020-tesla-model-3-long-range-5yj3e1eb0lf711928-in-irving-plano-tx",
+      "source": "Autos of Dallas"
     },
     {
       "vin": "7SAYGDEF0NF446017",
@@ -7209,24 +7227,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJ3E1EB0LF711928",
-      "year": 2020,
-      "model": "Model 3",
-      "trim": "Long Range",
-      "price": 26411.0,
-      "mileage": 63608.0,
-      "dealer": "Autos of Dallas - Plano",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 25,
-      "title_status": "Clean",
-      "url": "https://www.autosofdallas.com/inventory/used-2020-tesla-model-3-long-range-5yj3e1eb0lf711928-in-irving-plano-tx",
-      "source": "Autos of Dallas"
-    },
-    {
       "vin": "5YJ3E1EB2MF995337",
       "year": 2021,
       "model": "Model 3",
@@ -7515,6 +7515,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "7SAYGDEE4PA040345",
+      "year": 2023,
+      "model": "Model Y",
+      "trim": "Long Range",
+      "price": 34349.0,
+      "mileage": 51985.0,
+      "dealer": "Autos of Dallas - Plano",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": false,
+      "deal_score": 24,
+      "title_status": "Clean",
+      "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee4pa040345-in-irving-plano-tx",
+      "source": "Autos of Dallas"
+    },
+    {
       "vin": "7SAYGDEFXPF751589",
       "year": 2023,
       "model": "Model Y",
@@ -7531,24 +7549,6 @@
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEFXPF751589/2023-tesla-model-y/",
       "source": "TrueCar"
-    },
-    {
-      "vin": "7SAYGDEE4PA040345",
-      "year": 2023,
-      "model": "Model Y",
-      "trim": "Long Range",
-      "price": 35147.0,
-      "mileage": 51985.0,
-      "dealer": "Autos of Dallas - Plano",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 24,
-      "title_status": "Clean",
-      "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee4pa040345-in-irving-plano-tx",
-      "source": "Autos of Dallas"
     },
     {
       "vin": "5YJXCBE40MF324036",
@@ -8739,6 +8739,24 @@
       "source": "TrueCar"
     },
     {
+      "vin": "5YJ3E1EC7PF428683",
+      "year": 2023,
+      "model": "Model 3",
+      "trim": "Performance",
+      "price": 36191.0,
+      "mileage": 29986.0,
+      "dealer": "Autos of Dallas - Plano",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": false,
+      "deal_score": 16,
+      "title_status": "Clean",
+      "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-3-performance-5yj3e1ec7pf428683-in-irving-plano-tx",
+      "source": "Autos of Dallas"
+    },
+    {
       "vin": "7SAYGDEF0PF643899",
       "year": 2023,
       "model": "Model Y",
@@ -8755,24 +8773,6 @@
       "title_status": "Clean",
       "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEF0PF643899/2023-tesla-model-y/",
       "source": "TrueCar"
-    },
-    {
-      "vin": "5YJ3E1EC7PF428683",
-      "year": 2023,
-      "model": "Model 3",
-      "trim": "Performance",
-      "price": 36989.0,
-      "mileage": 29986.0,
-      "dealer": "Autos of Dallas - Plano",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 16,
-      "title_status": "Clean",
-      "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-3-performance-5yj3e1ec7pf428683-in-irving-plano-tx",
-      "source": "Autos of Dallas"
     },
     {
       "vin": "5YJ3E1EA3KF299784",
