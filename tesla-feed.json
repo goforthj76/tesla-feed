@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:32:39.753832+00:00",
+  "updated_at": "2026-10-22T14:46:22.900920+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 840,
   "total_hw4_under_33k": 63,
@@ -6687,24 +6687,6 @@
       "source": "MarketCheck"
     },
     {
-      "vin": "5YJ3E1EB0LF711928",
-      "year": 2020,
-      "model": "Model 3",
-      "trim": "Long Range Dual Motor",
-      "price": 23615,
-      "mileage": 63608,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 45,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EB0LF711928/2020-tesla-model-3/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJ3E1EC8NF247962",
       "year": 2022,
       "model": "Model 3",
@@ -10125,6 +10107,24 @@
       "source": "MarketCheck"
     },
     {
+      "vin": "5YJ3E1EB0LF711928",
+      "year": 2020,
+      "model": "Model 3",
+      "trim": "Long Range Dual Motor",
+      "price": 23615,
+      "mileage": 63608,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 35,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EB0LF711928/2020-tesla-model-3/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EA4KF400217",
       "year": 2019,
       "model": "Model 3",
@@ -10429,24 +10429,6 @@
       "title_status": "Clean",
       "url": "https://www.gulliverauto.com/inventory/used-2022-tesla-model-3-long-range-5yj3e1eb6nf238166-in-plano-tx",
       "source": "MarketCheck"
-    },
-    {
-      "vin": "5YJ3E1EA1LF736537",
-      "year": 2020,
-      "model": "Model 3",
-      "trim": "Standard Range Plus RWD",
-      "price": 25998,
-      "mileage": 67380,
-      "dealer": "CarMax Texas Stadium (Irving) - Irving, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 34,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA1LF736537/2020-tesla-model-3/",
-      "source": "TrueCar"
     },
     {
       "vin": "7SAYGDEF0NF446017",
@@ -12805,6 +12787,24 @@
       "title_status": "Clean",
       "url": "https://www.carvana.com/vehicle/4767549",
       "source": "Carvana"
+    },
+    {
+      "vin": "5YJ3E1EA1LF736537",
+      "year": 2020,
+      "model": "Model 3",
+      "trim": "Standard Range Plus RWD",
+      "price": 25998,
+      "mileage": 67380,
+      "dealer": "CarMax Texas Stadium (Irving) - Irving, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 26,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA1LF736537/2020-tesla-model-3/",
+      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EC1LF602189",
@@ -15219,6 +15219,24 @@
       "source": "Carvana"
     },
     {
+      "vin": "7SAXCBE62NF350773",
+      "year": 2022,
+      "model": "Model X",
+      "trim": "Plaid",
+      "price": 58803,
+      "mileage": 33763,
+      "dealer": "Premium Audio",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": false,
+      "deal_score": 18,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE62NF350773/2022-tesla-model-x/",
+      "source": "TrueCar"
+    },
+    {
       "vin": "5YJ3E1EB8JF187036",
       "year": 2018,
       "model": "Model 3",
@@ -15937,24 +15955,6 @@
       "title_status": "Clean",
       "url": "https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee6pa107463-in-irving-plano-tx",
       "source": "Autos of Dallas"
-    },
-    {
-      "vin": "7SAXCBE62NF350773",
-      "year": 2022,
-      "model": "Model X",
-      "trim": "Plaid",
-      "price": 58803,
-      "mileage": 33763,
-      "dealer": "Premium Audio",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": false,
-      "deal_score": 10,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE62NF350773/2022-tesla-model-x/",
-      "source": "TrueCar"
     },
     {
       "vin": "5YJSA1E62MF442343",
