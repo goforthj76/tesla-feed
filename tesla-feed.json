@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:00:40.778089+00:00",
+  "updated_at": "2026-10-22T09:12:58.034740+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 804,
   "total_hw4_under_33k": 54,
@@ -9801,24 +9801,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJ3E1EA1LF736537",
-      "year": 2020,
-      "model": "Model 3",
-      "trim": "Standard Range Plus RWD",
-      "price": 25998,
-      "mileage": 67380,
-      "dealer": "CarMax Texas Stadium (Irving) - Irving, TX",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 34,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA1LF736537/2020-tesla-model-3/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "7SAYGDEF0NF446017",
       "year": 2022,
       "model": "Model Y",
@@ -12175,6 +12157,24 @@
       "title_status": "Clean",
       "url": "http://www.tesla.com/m3/order/5YJ3E1EB4JF106033",
       "source": "MarketCheck"
+    },
+    {
+      "vin": "5YJ3E1EA1LF736537",
+      "year": 2020,
+      "model": "Model 3",
+      "trim": "Standard Range Plus RWD",
+      "price": 25998,
+      "mileage": 67380,
+      "dealer": "CarMax Texas Stadium (Irving) - Irving, TX",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 26,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA1LF736537/2020-tesla-model-3/",
+      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EC7NF266292",
