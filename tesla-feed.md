@@ -1,5 +1,5 @@
 # Used Tesla Deal Hunter - Live DFW Market Feed
-**Last Sync**: 2026-10-22T10:00:55.903057+00:00 (UTC)
+**Last Sync**: 2026-10-22T10:13:33.490578+00:00 (UTC)
 **Total Listings**: 848 | **HW4 Under $33k Deals**: 63 | **Clean Titles**: 848 | **Trash VINs Flagged**: 0
 
 ## ⭐ Priority: Verified HW4 Under $33k (Clean Title)
@@ -477,7 +477,6 @@
 | 2021 Model Y | Long Range AWD | $27,500 | 46,728 mi | HW3 | HGreg Nissan Kendall - Palmetto Bay, FL (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE0MF191095/2021-tesla-model-y/) |
 | 2021 Model Y | Long Range | $27,650.0 | 61,653.0 mi | HW3 | Park Place Motorcars Fort Worth (TX) | [View Listing](https://www.mercedesfortworth.com/used/Tesla/2021-Tesla-Model-Y-1045be6dac182bbee63c6cf3d42bf61f.htm) |
 | 2021 Model Y | Long Range AWD | $27,650 | 61,653 mi | HW3 | Park Place Motorcars Mercedes-Benz - Fort Worth, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE2MF076935/2021-tesla-model-y/) |
-| 2021 Model Y | Long Range AWD | $27,708 | 68,243 mi | HW3 | TrueCar Certified Dealer (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE0MF146223/2021-tesla-model-y/) |
 | 2014 Model S | S | $15,991.0 | 133,678.0 mi | HW3 | Texas Cars Direct (TX) | [View Listing](https://www.texascarsdirect.com/used/Tesla/2014-Tesla-Model-S-a1480f14ac184088ef41bc97e661ef1e.htm) |
 | 2018 Model 3 | Long Range | $19,995.0 | 102,814.0 mi | HW3 | Autoex (TX) | [View Listing](https://www.autoexllc.com/Inventory/Details/578198cd-1159-45b1-b342-17cc3cc2fc4c) |
 | 2018 Model 3 | Long Range Dual Motor | $19,995.0 | 93,638.0 mi | HW3 | Classic Car Sales Llc (TX) | [View Listing](https://classiccarsales.net/vehicles/12523827-2018-Tesla-Model%203/) |
@@ -637,6 +636,7 @@
 | 2020 Model 3 | Performance Dual Motor AWD | $25,903 | 81,746 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EC0LF624846/2020-tesla-model-3/) |
 | 2016 Model X |  | $25,990.0 | 88,479.0 mi | HW3 | Carvana Blue Mound (TX) | [View Listing](https://www.carvana.com/vehicle/4294811) |
 | 2021 Model 3 | Base | $26,000.0 | 93,401.0 mi | HW3 | Tesla (TX) | [View Listing](http://www.tesla.com/m3/order/5YJ3E1EB9MF069257) |
+| 2021 Model Y | Long Range AWD | $27,708 | 68,243 mi | HW3 | TrueCar Certified Dealer (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE0MF146223/2021-tesla-model-y/) |
 | 2023 Model 3 | Long Range | $27,753.0 | 75,498.0 mi | HW3 | South Dallas Mitsubishi (TX) | [View Listing](https://www.southdallasmitsu.com/used/Tesla/2023-Tesla-Model-3-9890e168ac1849e6c966ea6fee504e2e.htm) |
 | 2022 Model 3 |  | $27,990.0 | 32,732.0 mi | HW3 | Carvana (Direct) (TX) | [View Listing](https://www.carvana.com/vehicle/4838311) |
 | 2016 Model S | 90D | $20,400.0 | 102,111.0 mi | HW3 | Dallas Motorworks (TX) | [View Listing](https://www.dallasmotorworks.com/details/used-2016-tesla-model-s/130038338) |

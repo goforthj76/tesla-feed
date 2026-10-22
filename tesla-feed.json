@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:00:55.903057+00:00",
+  "updated_at": "2026-10-22T10:13:33.490578+00:00",
   "location": "North Texas / DFW (75022, 100mi radius)",
   "total_listings": 848,
   "total_hw4_under_33k": 63,
@@ -8397,24 +8397,6 @@
       "source": "TrueCar"
     },
     {
-      "vin": "5YJYGDEE0MF146223",
-      "year": 2021,
-      "model": "Model Y",
-      "trim": "Long Range AWD",
-      "price": 27708,
-      "mileage": 68243,
-      "dealer": "TrueCar Certified Dealer",
-      "city": "",
-      "state": "TX",
-      "is_hw4": false,
-      "hw4_tag": "HW3 LIKELY",
-      "under_33k": true,
-      "deal_score": 41,
-      "title_status": "Clean",
-      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE0MF146223/2021-tesla-model-y/",
-      "source": "TrueCar"
-    },
-    {
       "vin": "5YJSA1H25EFP66333",
       "year": 2014,
       "model": "Model S",
@@ -11275,6 +11257,24 @@
       "title_status": "Clean",
       "url": "http://www.tesla.com/m3/order/5YJ3E1EB9MF069257",
       "source": "MarketCheck"
+    },
+    {
+      "vin": "5YJYGDEE0MF146223",
+      "year": 2021,
+      "model": "Model Y",
+      "trim": "Long Range AWD",
+      "price": 27708,
+      "mileage": 68243,
+      "dealer": "TrueCar Certified Dealer",
+      "city": "",
+      "state": "TX",
+      "is_hw4": false,
+      "hw4_tag": "HW3 LIKELY",
+      "under_33k": true,
+      "deal_score": 31,
+      "title_status": "Clean",
+      "url": "https://www.truecar.com/used-cars-for-sale/listing/5YJYGDEE0MF146223/2021-tesla-model-y/",
+      "source": "TrueCar"
     },
     {
       "vin": "5YJ3E1EB4PF689681",
