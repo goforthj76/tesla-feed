@@ -1,5 +1,5 @@
 # Used Tesla Deal Hunter - Live DFW Market Feed
-**Last Sync**: 2026-10-22T13:25:22.959951+00:00 (UTC)
+**Last Sync**: 2026-10-22T13:25:28.399767+00:00 (UTC)
 **Total Listings**: 798 | **HW4 Under $33k Deals**: 63 | **Clean Titles**: 798 | **Trash VINs Flagged**: 0
 
 ## ⭐ Priority: Verified HW4 Under $33k (Clean Title)
@@ -746,7 +746,6 @@
 | 2023 Model Y | Performance AWD | $33,803 | 59,300 mi | HW3 | Kian Motors - Plano, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEF4PF702727/2023-tesla-model-y/) |
 | 2023 Model Y | Performance | $34,214.0 | 49,308.0 mi | HW3 | Vandergriff Acura (TX) | [View Listing](https://www.vandergriffacura.com/used/Tesla/2023-Tesla-Model-Y-35aaa8a7ac18243b114fe35179571efa.htm) |
 | 2023 Model Y | Performance AWD | $34,998 | 59,770 mi | HW3 | CarMax Plano - Plano, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEFXPF751589/2023-tesla-model-y/) |
-| 2023 Model Y | Long Range | $35,147.0 | 51,985.0 mi | HW3 | Autos of Dallas - Plano (TX) | [View Listing](https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee4pa040345-in-irving-plano-tx) |
 | 2021 Model X | Performance | $39,715 | 57,091 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJXCBE40MF324036/2021-tesla-model-x/) |
 | 2022 Model X | AWD | $50,803 | 41,287 mi | HW3 | Premium Audio (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAXCBE53NF331673/2022-tesla-model-x/) |
 | 2021 Model 3 | Standard Range Plus RWD | $26,998 | 61,225 mi | HW3 | CarMax Ft. Worth / Arlington - Fort Worth, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/5YJ3E1EA4MF982001/2021-tesla-model-3/) |
@@ -838,6 +837,7 @@
 | 2022 Model Y | Performance | $34,212.0 | 45,999.0 mi | HW3 | Toyota Of Richardson (TX) | [View Listing](https://www.toyotaofrichardson.com/used/Tesla/2022-Tesla-Model-Y-423479afac1822fe7566488f97824741.htm) |
 | 2023 Model Y | Long Range | $34,705.0 | 29,200.0 mi | HW3 | Autos Of Dallas - Plano (TX) | [View Listing](https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee6pa107463-in-irving-plano-tx) |
 | 2023 Model Y | Long Range | $34,721.0 | 33,058.0 mi | HW3 | Echopark Grand Prairie (TX) | [View Listing](https://www.echopark.com/car/7SAYGDEE4PA058652) |
+| 2023 Model Y | Long Range | $35,147.0 | 51,985.0 mi | HW3 | Autos of Dallas - Plano (TX) | [View Listing](https://www.autosofdallas.com/inventory/used-2023-tesla-model-y-long-range-7saygdee4pa040345-in-irving-plano-tx) |
 | 2023 Model Y | Long Range AWD | $35,703 | 29,200 mi | HW3 | Autos of Dallas - Irving - Irving, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEE6PA107463/2023-tesla-model-y/) |
 | 2022 Model Y | Performance AWD | $35,998 | 33,587 mi | HW3 | CarMax Texas Stadium (Irving) - Irving, TX (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEF4NF573790/2022-tesla-model-y/) |
 | 2023 Model Y | Performance AWD | $36,212 | 49,308 mi | HW3 | TrueCar Certified Dealer (TX) | [View Listing](https://www.truecar.com/used-cars-for-sale/listing/7SAYGDEF0PF643899/2023-tesla-model-y/) |
